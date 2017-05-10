@@ -1,0 +1,206 @@
+Database: Ovid MEDLINE(R) <1996 to Present with Daily Update>
+Search Strategy:
+--------------------------------------------------------------------------------
+1     exp Clonidine/ (4047)
+2     exp Clonidine/ (4047)
+3     limit 2 to english language (3712)
+4     2 not 3 (335)
+5     exp Clonidine/pk [Pharmacokinetics] (103)
+6     exp Clonidine/pk (103)
+7     limit 6 to english language (95)
+8     6 not 7 (8)
+
+***************************
+
+<1>
+Unique Identifier
+  17984563
+Status
+  MEDLINE
+Authors
+  Adeishvili-Anguladze LV.  Makharadze RV.  Kurtsikidze MSh.  Abuladze NB.  Kintsurashvili KM.
+Authors Full Name
+  Adeishvili-Anguladze, L V.  Makharadze, R V.  Kurtsikidze, M Sh.  Abuladze, N B.  Kintsurashvili, K M.
+Title
+  [New methods of chemical and toxicological study of clonidine (Clophelinum)]. [Russian]
+Source
+  Georgian Medical News.  (150):46-9, 2007 Sep.
+Abstract
+  Clophelinum (clonidine) has hypotensive and soothing effect. The literature describes cases of a poisoning with clonidine, the majority of which are of the criminal character. Symptoms of clonidine intoxication differ from poisoning with other substances. Clinical picture of poisoning with clonidine is complex enough. Pathological and histological changes in internal organs in case of poisoning with clonidine are non specific. The methods of sampling, isolation, and qualitative determination need improvement. The aim of the research was investigation of chemical and toxicological properties of Clophelinum to develop new techniques of isolation and identification of clonidine. The technique of isolation is characterized by high degree of isolation (96 %), and technique of identification by high sensitivity (0,1 mkg/ml), which proves their efficiecy.
+Publication Type
+  Comparative Study.  English Abstract.  Journal Article.
+Date Created
+  20071106
+Year of Publication
+  2007
+
+<2>
+Unique Identifier
+  17718087
+Status
+  MEDLINE
+Authors
+  Burkin AA.  Burkin MA.
+Authors Full Name
+  Burkin, A A.  Burkin, M A.
+Title
+  [Enzyme immunoassay of clofelin]. [Russian]
+Source
+  Sudebno-Meditsinskaia Ekspertiza.  50(4):30-2, 2007 Jul-Aug.
+Publication Type
+  Journal Article.
+Date Created
+  20070827
+Year of Publication
+  2007
+
+<3>
+Unique Identifier
+  16205905
+Status
+  MEDLINE
+Authors
+  Sadjak A.  Wintersteiger R.  Zakel D.  Wenzl T.  Lankmayr EP.  Gferer E.  Likar R.
+Authors Full Name
+  Sadjak, A.  Wintersteiger, R.  Zakel, D.  Wenzl, T.  Lankmayr, E P.  Gferer, E.  Likar, R.
+Institution
+  Institut fur Pathophysiologie, Medizinische Universitat Graz.
+Title
+  [Peripheral analgesic effect of intra-articularly applied clonidine]. [German]
+Source
+  Der Schmerz.  20(4):293-4, 296-9, 2006 Aug.
+Abstract
+  BACKGROUND AND AIM: Clonidine applied intra-articularly into the knee joint has a peripheral analgesic effect. We examined intra-articularly injected clonidine to determine whether resorption with a measurable systemic concentration could be detected.
+
+  METHODS: A randomised, placebo-controlled double-blind study was carried out on patients undergoing knee arthroscopies. The 69 patients were randomised into three groups: group 1 received 150 ug clonidine intra-articularly, group two 150 ug clonidine intravenously and group three a placebo. Postoperative pain therapy was carried out with i.v. morphine hydrochloride. Pain scores and side-effects were documented for 24 h.
+
+  RESULTS: There were no significant differences between the three groups in demographics, duration of operation, duration of anaesthesia, diagnoses or type of operation. The pain score at rest was significantly lower in group 1. In the first 20 min, the systemic concentration of clonidine was significantly higher in the intravenous group than in the intra-articular group.
+
+  CONCLUSION: Intra-articular clonidine has a postoperative analgesic effect after knee arthroscopies due to a peripheral action.
+Publication Type
+  Comparative Study.  English Abstract.  Journal Article.  Randomized Controlled Trial.
+Date Created
+  20060728
+Year of Publication
+  2006
+
+<4>
+Unique Identifier
+  16252217
+Status
+  MEDLINE
+Authors
+  Huber D.  Kretz FJ.
+Authors Full Name
+  Huber, D.  Kretz, F-J.
+Institution
+  Zentrum Anasthesiologie, Medizinische Hochschule Hannover. huber.dirk@mh-hannover.de
+Title
+  [Efficacy of clonidine in paediatric anaesthesia]. [Review] [112 refs] [German]
+Source
+  Anasthesiologie, Intensivmedizin, Notfallmedizin, Schmerztherapie.  40(10):567-75, 2005 Oct.
+Abstract
+  Clonidine is a mixed alpha (2)-/alpha (1)- adrenoceptor agonist. It decreases sympathetic tone and increases parasympathetic tone, which results in a lowering of blood pressure and heart rate. It was introduced as an antihypertensive medication in the late sixties. Yet Clonidine also has a sedative effect due to alpha (2)-adrenoceptor stimulation in the locus coeruleus and antinociceptive action caused through postjunctional noradrenergic pathways in the brainstem and spinal cord. This analgesic property of Clonidine has raised broad interest in its beneficial use in anaesthesiology. In adults and pediatric anaesthesia, clonidine can be safely and effectively used for premedication, intraoperative and postoperative analgesia, postoperative shivering, and for analgo-sedation in intensive care. This article will consider possible indications of Clonidine in children's anaesthesia and intensive care medicine. [References: 112]
+Publication Type
+  English Abstract.  Journal Article.  Review.
+Date Created
+  20051027
+Year of Publication
+  2005
+
+<5>
+Unique Identifier
+  15338881
+Status
+  MEDLINE
+Authors
+  Ke GM.  Zhang EH.  Wang L.  Zhang Q.  Du HG.  Guo HY.
+Authors Full Name
+  Ke, Guang-ming.  Zhang, En-hong.  Wang, Li.  Zhang, Qiang.  Du, Hong-guang.  Guo, Hong-you.
+Institution
+  College of Science, Beijing University of Chemical Technology, Beijing 100029, China.
+Title
+  [Determination of clonidine in rabbit plasma by HPLC-MS]. [Chinese]
+Source
+  Yao Hsueh Hsueh Pao - Acta Pharmaceutica Sinica.  39(5):367-9, 2004 May.
+Abstract
+  AIM: To determine clonidine in rabbit plasma by LC-MS.
+
+  METHODS: The LC-MS system consisted of Waters Alliance 2790 HPLC and Micromass ZQ-4000 MS. The HPLC was performed by using XTerra C18 (150 mm x 2.1 mm ID, 5 microm). The mobile phase, consisting of acetonitrile/ammonium hydrogen carbonate solution, was maintained to a flow-rate of 0.2 mL x min(-1) and the linear gradient elution was adopted. Mass spectrum was obtained by using electrospray ionization interface and the m/z of SIM was 230.
+
+  RESULTS: The average recovery was high and the method was reproducible. The calibration curve showed good linearity in the range of 1 - 80 microg x L(-1), the lowest limit of detection was 0.05 microg x L(-1). The Cmax, AUC0-t, and Tmax value of the pharmacokinetics parameter were (27 +/- 9) microg x L(-1), (5,352 +/- 1,121) microg x L(-1), (79 +/- 17) h.
+
+  CONCLUSION: The results demonstrated that the method had high sensitivity, good selectivity, accuracy and precision. It is used to determine the clonidine concentration in plasma. The transdermal patch can deliver clonidine to the surface of rabbit skin stably for periods of up to 1 week after a single application.
+Publication Type
+  English Abstract.  Journal Article.
+Date Created
+  20040901
+Year of Publication
+  2004
+
+<6>
+Unique Identifier
+  15011413
+Status
+  MEDLINE
+Authors
+  Hirai S.
+Authors Full Name
+  Hirai, Shunsaku.
+Institution
+  Gunma University.
+Title
+  [Dementia induced by cardiokinetic and anti-hypertensive drugs]. [Review] [3 refs] [Japanese]
+Source
+  Nippon Rinsho - Japanese Journal of Clinical Medicine.  62 Suppl:494-7, 2004 Jan.
+Publication Type
+  Journal Article.  Review.
+Date Created
+  20040311
+Year of Publication
+  2004
+
+<7>
+Unique Identifier
+  11715099
+Status
+  MEDLINE
+Authors
+  Molina Martinez IT.
+Authors Full Name
+  Molina Martinez, I T.
+Title
+  [General considerations related to ocular pharmacokinetic studies]. [Spanish]
+Source
+  Archivos de la Sociedad Espanola de Oftalmologia.  76(11):637-40, 2001 Nov.
+Publication Type
+  Editorial.
+Date Created
+  20011120
+Year of Publication
+  2001
+
+<8>
+Unique Identifier
+  10405570
+Status
+  MEDLINE
+Authors
+  Drzewoski J.  Wisniewska-Jarosinska M.
+Authors Full Name
+  Drzewoski, J.  Wisniewska-Jarosinska, M.
+Institution
+  Klinika Chorob Przewodu Pokarmowego i Przemiany Materii, Instytut Medycyny Wewnetrznej Akademii Medycznej, Lodzi.
+Title
+  [Clinical pharmacology of hypotensive drugs acting on central imidazoline receptors]. [Review] [35 refs] [Polish]
+Source
+  Polskie Archiwum Medycyny Wewnetrznej.  100(6):561-9, 1998 Dec.
+Publication Type
+  Journal Article.  Review.
+Date Created
+  19990921
+Year of Publication
+  1998
+
+
+

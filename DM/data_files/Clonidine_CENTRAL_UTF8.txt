@@ -1,0 +1,401 @@
+Search strategy:
+
+Clonidine AND
+child OR children OR paediatric OR pediatric AND
+premedication OR pre-medication OR preinduction OR pre-induction OR pre-operative OR preoperative AND
+pain OR analgesi*
+
+Searched on all text
+
+Record #1 of 18
+ID: CN-00589716
+AU: Schmidt AP
+AU: Valinetti EA
+AU: Bandeira D
+AU: Bertacchi MF
+AU: Simões CM
+AU: Auler JO
+TI: Effects of preanesthetic administration of midazolam, clonidine, or dexmedetomidine on postoperative pain and anxiety in children.
+SO: Paediatric anaesthesia
+YR: 2007
+VL: 17
+NO: 7
+PG: 667-74
+PM: PUBMED 17564649
+PT: Journal Article; Randomized Controlled Trial
+AD: Division of Anesthesiology and Children's Institute, Hospital das Clínicas, University of São Paulo Medical School, São Paulo, Brazil. apschmidtus@yahoo.com
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/716/CN-00589716/frame.html
+KY: Adrenergic alpha-Agonists [adverse effects]; Anesthetics, Intravenous [adverse effects]; Anxiety [prevention & control] [psychology]; Blood Pressure [drug effects]; Carbon Dioxide [blood]; Clonidine [adverse effects]; Dexmedetomidine [adverse effects]; Double-Blind Method; Heart Rate [drug effects]; Hypnotics and Sedatives [adverse effects]; Midazolam [adverse effects]; Oxygen [blood]; Pain, Postoperative [prevention & control]; Pain Measurement; Postoperative Complications [prevention & control] [psychology]; Preanesthetic Medication; Prospective Studies; Psychiatric Status Rating Scales; Child, Preschool; Female; Humans; Male
+CC: SR-HTN; SR-SYMPT
+AB: BACKGROUND: A growing interest in the possible influences of pre- and postoperative anxiety and pain scores as outcomes of surgical treatment and benefits of anxiety or pain-reducing interventions has emerged. The aim of this study was to evaluate the influence of three different premedication regimens on postoperative pain and anxiety in children. METHODS: A prospective, randomized, open-label clinical trial enrolled 60 schoolchildren. They were randomized for premedication with oral midazolam 0.5 mgxkg(-1), oral clonidine 4 microgxkg(-1), or transmucosal dexmedetomidine (DEX) 1 mug.kg(-1), submitted to a pre- and postoperative evaluation of anxiety with the State-Trait Anxiety Inventory for Children and asked to report any pain in verbal and visual analog scales. We also evaluated secondary outcomes such as parents' anxiety, sedation, separation from parents, adverse effects and hemodynamic status. RESULTS: Dexmedetomidine and clonidine were related to lower scores of pain than midazolam. alpha(2)-agonists produced lower scores of peroperative mean arterial pressure and heart rate than midazolam. Both groups had similar levels of postoperative state-anxiety in children. There was no difference in preanesthesia levels of sedation and response to separation from parents between groups. CONCLUSIONS: These findings indicate that children receiving clonidine or DEX preoperatively have similar levels of anxiety and sedation postoperatively as those receiving midazolam. However, children given alpha(2)-agonists had less perioperative sympathetic stimulation and less postoperative pain than those given midazolam.
+
+
+Record #2 of 18
+ID: CN-00586858
+AU: Erhan OL
+AU: Göksu H
+AU: Alpay C
+AU: Be&#351;ta&#351; A
+TI: Ketamine in post-tonsillectomy pain.
+SO: International journal of pediatric otorhinolaryngology
+YR: 2007
+VL: 71
+NO: 5
+PG: 735-9
+PM: PUBMED 17296236
+PT: Journal Article; Randomized Controlled Trial
+AD: Firat University Medical Faculty, Department of Anesthesiology and Reanimation, 23119 Elazig, Turkey.
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/858/CN-00586858/frame.html
+KY: Analgesics [therapeutic use]; Demography; Ketamine [therapeutic use]; Pain, Postoperative [drug therapy]; Tonsillectomy; Child; Child, Preschool; Female; Humans; Male
+CC: SR-ENT; SR-SYMPT
+AB: OBJECTIVE: There has yet been no ideal method for postoperative analgesia in children. Ketamine demonstrates a potent analgesic effect by central blockage of perception of pain with sub-anesthetic doses. Preoperative intramuscular administration of ketamine for sedation decreases the pain during swallowing after tonsillectomy, while it provides long-term analgesia when applied around the incision. The aim of this study is to compare the effectiveness of ketamine administered to the tonsillar region following tonsillectomy for postoperative pain management. METHODS: After obtaining consent from the local ethics committee and the parents, 60 patients from the ASA groups I and II, between 3 and 7 years of age, planned for adenotonsillectomy as outpatients, were included in the study. Subjects were randomly assigned to two equal groups and 2ml 0.9% saline for group S, and 0.5mgkg(-1) ketamine and saline 2ml in volume for group K were administered into the tonsillar region. All subjects were monitored in a standard manner and SpO(2), systolic arterial pressure (SAP), and cardiac pulse rates were recorded in 5min intervals. The CHEOPS and Wilson sedation scale were used to evaluate pain levels and sedative condition, respectively. Nausea and vomiting scores of the subjects were also noted. The time of the first analgesic administration and the total amount of analgesics in an 8-hour period were recorded. Student-T and Chi-Square tests were used for the statistical evaluation of the data and a p value of <0.05 was accepted as significant. RESULTS: There were no significant differences between groups according to age, sex, weight, intermittent SAP and cardiac pulse rates. However, the CHEOPS value, the first analgesic need and the total amount of analgesic need were in favor of ketamine (p<0.05). CONCLUSIONS: In previous studies, no significant differences were demonstrated in pre-emptive analgesia with ketamine, magnesium, morphine, and clonidine. The dose of ketamin and the volume used in this study caused no sedation or nausea and provided a high level of analgesia. Ketamine infiltration into the tonsillar region after tonsillectomy was found to be easy and effective.
+
+
+Record #3 of 18
+ID: CN-00587830
+AU: Tazeroualti N
+AU: De Groote F
+AU: De Hert S
+AU: De Villé A
+AU: Dierick A
+AU: Van der Linden P
+TI: Oral clonidine vs midazolam in the prevention of sevoflurane-induced agitation in children. a prospective, randomized, controlled trial.
+SO: British journal of anaesthesia
+YR: 2007
+VL: 98
+NO: 5
+PG: 667-71
+PM: PUBMED 17416907
+PT: Comparative Study; Journal Article; Randomized Controlled Trial
+AD: Department of Anaesthesia, CHU-Brugmann-HUDERF, 4, Place Van Gehuchten, B-1020 Brussels, and University Hospital Antwerp, Edegem, Belgium.
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/830/CN-00587830/frame.html
+KY: Administration, Oral; Analgesics [therapeutic use]; Anesthesia Recovery Period; Anesthetics, Inhalation [adverse effects]; Clonidine [therapeutic use]; Double-Blind Method; Hypnotics and Sedatives [therapeutic use]; Methyl Ethers [adverse effects]; Midazolam [therapeutic use]; Postoperative Complications [prevention & control]; Premedication [methods]; Prospective Studies; Psychomotor Agitation [etiology] [prevention & control]; Child; Child, Preschool; Humans; Infant; Male
+AB: BACKGROUND: This randomized, double-blind study tested the hypothesis that, in comparison with midazolam, premedication with oral clonidine reduces the incidence of emergence agitation in preschool children anaesthetized with sevoflurane. METHODS: Sixty-eight ASA I-II children undergoing circumcision were randomized into three groups to receive different oral premedication given 30 min before anaesthesia: midazolam 0.5 mg kg-1, clonidine 2 microg kg-1, and clonidine 4 microg kg-1. Sevoflurane anaesthesia was administered via a facemask (O2/N2O: 40/60). Analgesia was with penile block (bupivacaine 0.5% 0.3 ml kg-1) and rectal paracetamol (30 mg kg-1). During the first postoperative hour, children were evaluated using a modified 'objective pain scale'. RESULTS: Only the 4 microg kg-1 dose of clonidine was associated with a significant reduction in emergence agitation. Fewer children in the clonidine 4 microg kg-1 group displayed agitation (25%) than in the midazolam group (60%) (P=0.025). Incidence of hypotension and bradycardia, time to first micturition and first drink did not differ among groups. CONCLUSIONS: In comparison with midazolam, clonidine 4 microg kg-1 reduced sevoflurane-induced emergence agitation without increasing postoperative side-effects.
+
+
+Record #4 of 18
+ID: CN-00460030
+AU: Hansen TG
+AU: Henneberg SW
+AU: Walther-Larsen S
+AU: Lund J
+AU: Hansen M
+TI: Caudal bupivacaine supplemented with caudal or intravenous clonidine in children undergoing hypospadias repair: a double-blind study.
+SO: British journal of anaesthesia
+YR: 2004
+VL: 92
+NO: 2
+PG: 223-7
+PM: PUBMED 14722172
+PT: Clinical Trial; Comparative Study; Journal Article; Multicenter Study; Randomized Controlled Trial
+AD: Department of Anaesthesia and Intensive Care, Odense University Hospital, DK-5000 Odense C, Denmark. tomghansen@dadlnet.dk
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/030/CN-00460030/frame.html
+KY: Adrenergic alpha-Agonists [administration & dosage]; Analgesia, Epidural [methods]; Analgesics [administration & dosage]; Analgesics, Opioid [administration & dosage]; Anesthetics, Local; Bupivacaine; Clonidine [administration & dosage]; Double-Blind Method; Hypospadias [surgery]; Injections, Epidural; Injections, Intravenous; Morphine [administration & dosage]; Pain, Postoperative [prevention & control]; Child; Child, Preschool; Humans; Male
+CC: SR-ANAESTH; SR-CHILD
+AB: BACKGROUND: Clonidine is used increasingly in paediatric anaesthetic practice to prolong the duration of action of caudal block with a local anaesthetic agent. Which route of administration of clonidine is the most beneficial remains unknown. We compared the effects of caudal and i.v. clonidine on postoperative analgesia produced by caudal bupivacaine after hypospadias repair. METHODS: Forty-six children (ASA I or II) aged 24-104 months received standardized premedication with midazolam, a general anaesthetic and a caudal block with bupivacaine 0.25%, 0.5 ml kg(-1). The children were randomized in a double-blind fashion to two groups: the i.v. group received clonidine 2 micro g kg(-1) i.v. and simultaneously the same volume of saline caudally. The caudal group received clonidine 2 micro g kg(-1) caudally and a similar volume of saline i.v. After surgery, all children received acetaminophen 20 mg kg(-1) rectally or orally 6-hourly and were given a patient-controlled or nurse-controlled analgesia (PCA/NCA) pump with i.v. morphine (bolus of 25 micro g kg(-1) and an 8-min lockout period with no background infusion). Monitoring of scores for pain, sedation, motor block, and postoperative nausea and vomiting was performed by nurses blinded to the study allocations. Time to first activation of the PCA/NCA pump and 0-24 h and 24-48 h morphine consumption were also recorded. RESULTS: Forty-four children completed the study. Age, weight and duration of anaesthesia and surgery were similar in the two groups. The median (range) time to first activation of the PCA/NCA pump was similar in the two groups: 425 (150-1440) min in the i.v. group and 450 (130-1440) min in the caudal group. The number of children not requiring postoperative morphine was four and seven respectively. Morphine consumption during 0-24 h and 24-48 h was similar between groups. CONCLUSIONS: The analgesic effect of clonidine 2 micro g kg(-1) as an adjunct to caudal block with bupivacaine 0.25%, 0.5 ml kg(-1) is similar whether administered i.v. or caudally.
+
+
+Record #5 of 18
+ID: CN-00497350
+AU: Bergendahl HT
+AU: Lönnqvist PA
+AU: Eksborg S
+AU: Ruthström E
+AU: Nordenberg L
+AU: Zetterqvist H
+AU: Oddby E
+TI: Clonidine vs. midazolam as premedication in children undergoing adeno-tonsillectomy: a prospective, randomized, controlled clinical trial.
+SO: Acta anaesthesiologica Scandinavica
+YR: 2004
+VL: 48
+NO: 10
+PG: 1292-300
+PM: PUBMED 15504191
+XR: EMBASE 2004489149
+PT: Clinical Trial; Comparative Study; Journal Article; Randomized Controlled Trial
+AD: Department of Paediatric Anaesthesia and Intensive Care, Astrid Lindgrens Children's Hospital, Stockholm, Sweden. henrik.bergendahl@hs.se
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/350/CN-00497350/frame.html
+KY: Adenoidectomy; Adrenergic alpha-Agonists; Anesthesia; Behavior [drug effects]; Clonidine; Confusion [chemically induced] [psychology]; Double-Blind Method; Hypnotics and Sedatives; Midazolam; Pain, Postoperative [epidemiology]; Parents; Postoperative Complications [epidemiology]; Postoperative Nausea and Vomiting [epidemiology]; Preanesthetic Medication; Prospective Studies; Shivering [drug effects]; Tonsillectomy; Treatment Outcome; Child; Child, Preschool; Female; Humans; Infant; Male
+CC: SR-ANAESTH; SR-CHILD; SR-ENT
+AB: BACKGROUND: Clonidine administration in the setting of paediatric anaesthesia is associated with a number of desirable effects, e.g. preoperative sedation, analgesia and reduced anaesthetic requirements. The aim of the current study was to compare postoperative outcome variables using a prospective, randomized, double-blind design after premedication with clonidine or midazolam. METHODS: One hundred paediatric ASA physical status 1 patients (age 1-11 year) scheduled for adeno-tonsillectomy were assigned to receive rectal premedication with midazolam (300 microg kg(-1) and atropine 40 microg kg(-1); group M, n = 52) or clonidine (5 microg kg(-1 and) atropine 40 microg kg(-1); group C, n = 48) prior to a standardized sevoflurane anaesthetic. The incidence of immediate postoperative pain (0-2 h), as assessed by repeated Objective Pain Scale (OPS) scores, was chosen as the primary end-point of the study. Degree of sedation (modified Vancouver sedation scale 0-3), occurrence of postoperative vomiting (POV), and incidence of shivering and immediate postoperative confusion were registered as secondary end-points. After hospital discharge parents were instructed to continue the evaluation of pain, sedation, POV and sleep pattern during a 24-h period. Parents were also asked for their preference concerning the postoperative behaviour of their child (calm, sedated vs. alert, active). RESULTS: In the early postoperative period patients in the clonidine group had a significantly lower sum of 5 OPS scores (median = 8.0) compared to group M (median = 11.5) (P = 0.011). Administration of clonidine was also associated with a slightly higher sum of sedation scores (median = 13) in the early postoperative period compared to children receiving midazolam (median = 12) (P < 0.001). No episode of shivering was observed in the clonidine group but was present in five of the patients in the midazolam group (P = 0.057). In younger children (< 5 years) the incidence of postoperative confusion was lower in the clonidine group (P = 0.001). No difference in the frequencies of POV incidences, degree of postoperative pain, need for analgesics, or sleep pattern during the first 24 postoperative hours could be observed between the groups according to the parental evaluation. Children premedicated with clonidine were more calm and sedated compared to children in the midazolam group (P = 0.024) as judged by their parents. A significant majority of parents (75%; P < 0.001) preferred a calm and sedated child during the first postoperative 24-h period. CONCLUSION: Rectal premedication with clonidine was associated with a significant reduction of pain in the early postoperative period compared to midazolam and was also associated with moderately increased sedation during the first 24 postoperative hours. The sedative effect of clonidine is in agreement with the unambiguous finding of a parental preference for a calm and sedated child during the first 24 postoperative hours.
+
+
+Record #6 of 18
+ID: CN-00423082
+AU: Hackmann T
+AU: Friesen M
+AU: Allen S
+AU: Precious DS
+TI: Clonidine facilitates controlled hypotension in adolescent children.
+SO: Anesthesia and analgesia
+YR: 2003
+VL: 96
+NO: 4
+PG: 976-81, table of contents
+PM: PUBMED 12651645
+PT: Clinical Trial; Journal Article; Randomized Controlled Trial
+AD: Department of Paediatric Anaesthesia, IWK Health Centre, Box 3070, Halifax, Nova Scotia, Canada B3J 3G9. thomas.hackmann@dal.ca
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/082/CN-00423082/frame.html
+KY: Adolescent; Adrenergic alpha-Agonists [therapeutic use]; Anesthesia, Inhalation; Anxiety [drug therapy] [psychology]; Blood Pressure [drug effects] [physiology]; Clonidine [therapeutic use]; Conscious Sedation; Emotions; Hypotension, Controlled; Intubation, Gastrointestinal; Monitoring, Intraoperative; Preanesthetic Medication; Psychometrics; Female; Humans; Male
+CC: SR-CHILD
+AB: In this randomized, double-blinded, placebo-controlled trial, we investigated whether clonidine lessened the requirements for isoflurane, fentanyl, and labetalol to provide controlled hypotension in children who underwent oromaxillofacial surgery. We also studied preoperative sedative effects, the hemodynamic response to nasotracheal intubation, and recovery characteristics. Thirty-nine healthy children, aged 10-16 yr, received clonidine 5 micro g/kg or placebo on the night before surgery and 90 min before surgery. By self-assessment, children in both groups showed similar anxiety, whereas observers rated clonidine patients as more sedated (P < 0.01). Heart rate during induction remained significantly decreased in clonidine patients compared with placebo patients (P < 0.001), as did arterial blood pressure before induction (P < 0.01) and peak pressure after intubation (P < 0.001). Children who took clonidine required significantly less isoflurane to maintain a mean arterial blood pressure of 60 +/- 4 mm Hg (mean isoflurane concentration, clonidine 0.99% versus placebo 1.33; P = 0.0004) and required less fentanyl than placebo patients (P = 0.002). Fewer treatment patients received labetalol (clonidine, n = 3 versus placebo, n = 13; P = 0.004). There was a trend toward faster recovery in the clonidine group, with a shortened recovery room stay (P = 0.03). We conclude that clonidine is a useful adjunct for controlled hypotension in children. IMPLICATIONS: This study shows that adolescents having major jaw surgery are helped by the blood pressure-decreasing drug clonidine. This drug allows smaller doses of anesthetics, pain relievers, and blood pressure-decreasing drugs to be used; reduces changes in heart rate and blood pressure; and provides faster recovery from the anesthetic.
+
+
+Record #7 of 18
+ID: CN-00422348
+AU: Gulhas N
+AU: Turkoz A
+AU: Durmus M
+AU: Togal T
+AU: Gedik E
+AU: Ersoy MO
+TI: Oral clonidine premedication does not reduce postoperative vomiting in children undergoing strabismus surgery.
+SO: Acta anaesthesiologica Scandinavica
+YR: 2003
+VL: 47
+NO: 1
+PG: 90-3
+PM: PUBMED 12492804
+PT: Clinical Trial; Journal Article; Randomized Controlled Trial
+AD: Department of Anesthesia, Inonu University Turgut Ozal Medical Center, Turkey.
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/348/CN-00422348/frame.html
+KY: Adrenergic alpha-Agonists [therapeutic use]; Clonidine [therapeutic use]; Double-Blind Method; Ophthalmologic Surgical Procedures; Postoperative Nausea and Vomiting [prevention & control]; Preanesthetic Medication; Prospective Studies; Strabismus [surgery]; Child; Child, Preschool; Female; Humans; Male
+CC: SR-CHILD; SR-EYES
+AB: BACKGROUND: We evaluated the effect of oral clonidine on postoperative vomiting (POV) in children undergoing strabismus surgery. METHODS: Eighty ASA physical status I children aged 3-12 years were randomly assigned to one of two groups in a double-blinded manner. One hour before surgery, each patient in the clonidine group (n=40) received clonidine 4 micro g kg-1 in apple juice 0.2 ml kg-1, and each of the controls (n=40) received apple juice 0.2 ml kg-1 only. The protocol for general anesthesia was propofol-sevoflurane in N2O/O2. A paracetamol suppository was administered in each case to prevent postoperative pain. Patient responses during 0-48 h after anesthesia were recorded as complete (no POV, no antiemetic rescue required), retching, vomiting, or rescue antiemetic. RESULTS: There were no significant differences between the clonidine and control groups regarding the number of patients with complete response (21 vs. 18, respectively) retching (10 vs. 14, respectively), vomiting (19 vs. 22, respectively), or rescue antiemetic (9 vs. 12, respectively) during the first 48 h. CONCLUSION: Oral premedication with clonidine 4 micro g kg-1 did not reduce the rate of POV in the children undergoing strabismus surgery.
+
+
+Record #8 of 18
+ID: CN-00508427
+AU: Yun MJ
+TI: [The effect of intravenous clonidine premedication on pediatric adenotonsillectomy]
+SO: Korean Journal of Anesthesiology
+YR: 2003
+VL: 45
+NO: 6
+PG: 715-719
+DE: RCT
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/427/CN-00508427/frame.html
+CC: SR-CHILD; SR-ENT
+AB: BACKGROUND: Clonidine, a prototype alpha2-adrenoreceptor agonist, has been shown to be effective as a preanesthetic medication in adults. Many authors have reported the effects of intravenous clonidine pretreatment on the hemodynamic responses to tracheal intubation, on the anesthetic requirements during the operation and on postoperative analgesia in adults. The current study was designed to investigate the efficacy of two doses of intravenous clonidine as a premedicants. METHODS: In a prospective, randomized, double-blind, controlled clinical trial, 60 children, aged 5 12 years, undergoing an elective adenotonsillecctomy received saline, 1 microgram/kg clonidine or 2 microgram/kg clonidine intravenously. These agents were administered 10 minutes before the estimated time of induction of anesthesia with intravenous atropine 0.01 mg/kg. A blinded observer noted the childrens'levels of sedation, the quality of separation from parent, and degree of acceptance of mask application during the inhalation of 100% oxygen just after pentothal sodium injection. Hemodynamic changes after tracheal intubation were compared among the three groups. RESULTS: Clonidine produced significant sedation, and this effect were dose related. The clonidine administered groups provided a better quality of separation than the control group. Amnesia about mask application was significantly higher in the clonidine 2 microgram/kg administered group. These doses of clonidine did not attenuate increases in blood pressure and heart rate after tracheal intubation. No consistent differences in the blood pressure or heart rate after tracheal intubation were observed in the three groups. No clinically significant perioperative hypotension or bradycardia was observed. CONCLUSIONS: These data indicate that, the combination of intravenous 1 microgram/kg clonidine or 2 microgram/kg clonidine with atropine 0.01 mg/kg is an effective form of premedication in pediatric surgery. However, the optimal dose of clonidine for both sedation and hemodynamic stability after tracheal intubation in this setting remains to be determined.
+
+
+Record #9 of 18
+ID: CN-00380265
+AU: Inomata S
+AU: Kihara S
+AU: Miyabe M
+AU: Sumiya K
+AU: Baba Y
+AU: Kohda Y
+AU: Toyooka H
+TI: The hypnotic and analgesic effects of oral clonidine during sevoflurane anesthesia in children: a dose-response study.
+SO: Anesthesia and analgesia
+YR: 2002
+VL: 94
+NO: 6
+PG: 1479-83, table of contents
+PM: PUBMED 12032011
+PT: Clinical Trial; Journal Article; Randomized Controlled Trial
+AD: Department of Anesthesiology, the University of Tsukuba, Tsukuba City, Ibaraki 305-8575, Japan. inomatas@md.tsukuba.ac.jp
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/265/CN-00380265/frame.html
+KY: Adrenergic alpha-Agonists [adverse effects]; Analgesics [adverse effects]; Anesthesia, General; Anesthetics, Inhalation [adverse effects]; Clonidine [adverse effects]; Dose-Response Relationship, Drug; Drug Interactions; Hypnotics and Sedatives [adverse effects]; Methyl Ethers [adverse effects]; Pulmonary Alveoli [metabolism]; Child; Child, Preschool; Female; Humans; Male
+CC: SR-ANAESTH; SR-CHILD
+AB: Although clonidine has both hypnotic and analgesic actions, the dose relationship for each actions is still unknown in a clinical setting when clonidine is used as a premedication in children. We studied 80 ASA physical status I children (age range, 3-8 yr). Subjects were randomly divided into two groups (minimum alveolar anesthetic concentration [MAC]-Awake group, n = 40; MAC-Tetanus group, n = 40). Each patient received one dose of clonidine from 1 to 5 microg/kg orally, 100 min before arrival at the operating room. Anesthesia was induced and maintained with sevoflurane in oxygen and air. Before tracheal intubation, end-tidal sevoflurane was decreased stepwise by 0.2% at the start of 1.2%, a verbal command was given to the patients, and MAC-awake was determined in each patient. We also investigated MAC-tetanus, determined with transcutaneous electric tetanic stimulations, after tracheal intubation in each patient by observing the motor response to a transcutaneous electric tetanic stimulus to the ulnar nerve at a sevoflurane concentration decreased stepwise by 0.25% at the start of 2.75%. The initial reduction in MAC-tetanus was not as steep as that in MAC-awake. Clonidine reduced MAC-tetanus by 40% at the maximal dose of 5 microg/kg, whereas MAC-awake was already reduced by 50% at 2 microg/kg. We conclude that separate dose-response relationships for oral clonidine are present regarding the hypnotic and analgesic effects in children undergoing sevoflurane anesthesia. IMPLICATIONS: Separate dose-response relationships for oral clonidine were found regarding the hypnotic and analgesic effects in children undergoing sevoflurane anesthesia.
+
+
+Record #10 of 18
+ID: CN-00330385
+AU: Fazi L
+AU: Jantzen EC
+AU: Rose JB
+AU: Kurth CD
+AU: Watcha MF
+TI: A comparison of oral clonidine and oral midazolam as preanesthetic medications in the pediatric tonsillectomy patient.
+SO: Anesthesia and analgesia
+YR: 2001
+VL: 92
+NO: 1
+PG: 56-61
+PM: PUBMED 11133600
+PT: Clinical Trial; Comparative Study; Journal Article; Randomized Controlled Trial
+AD: Department of Anesthesiology and Critical Care Medicine, The Children's Hospital of Philadelphia, Pennsylvania 19104, USA.
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/385/CN-00330385/frame.html
+KY: Adenoidectomy [adverse effects]; Administration, Oral; Adrenergic alpha-Agonists [therapeutic use]; Anti-Anxiety Agents [therapeutic use]; Blood Pressure [drug effects]; Clonidine [therapeutic use]; Double-Blind Method; Heart Rate [drug effects]; Hypnotics and Sedatives [therapeutic use]; Midazolam [therapeutic use]; Pain, Postoperative [prevention & control]; Placebos; Preanesthetic Medication; Tonsillectomy [adverse effects]; Child; Child, Preschool; Female; Humans; Male
+CC: SR-CHILD; SR-ENT; SR-SYMPT
+AB: We compared the effects of oral clonidine (4 microg/kg) and midazolam (0.5 mg/kg) on the preanesthetic sedation and postoperative recovery profile in children during tonsillectomy with or without adenoidectomy. In a double-blinded, double-dummy study design, 134 ASA physical status I-II children aged 4-12 yr were randomized to receive a combination of either clonidine and placebo (Group A), or placebo and midazolam (Group B) at 60-90 min and 30 min, respectively, before the induction of anesthesia. Children in the clonidine group exhibited more intense anxiety on separation and during induction of anesthesia via a mask as measured by the modified Yale Preoperative Anxiety Scores. They also had significantly lower mean intraoperative arterial blood pressures, shorter surgery, anesthesia, and emergence times, and a decreased need for supplemental oxygen during recovery compared with the midazolam group. However, the clonidine group had larger postoperative opioid requirements, maximum excitement and pain scores based on the Children's Hospital of Eastern Ontario scale in the Phase 1 postanesthetic care unit. There were no differences between the two groups in the times to discharge readiness, postoperative emesis, unanticipated hospital admission rates, postdischarge maximum pain scores, and 24 h analgesic requirements. The percentage of parents who were completely satisfied with the child's preoperative experience was significantly higher in the midazolam group. There were no differences in parental satisfaction with the recovery period. We conclude that under the conditions of this study, oral midazolam is superior to oral clonidine as a preanesthetic medication in this patient population. Implications: We compared preanesthetic sedation and postoperative recovery after oral clonidine (4 microg/kg) and midazolam (0.5 mg/kg) in children during tonsillectomy. The clonidine group had greater preoperative anxiety and shorter surgery and anesthesia times, but required more postoperative analgesia. Delayed recovery and discharge times did not differ. Midazolam was superior to clonidine as oral preanesthetic medication for these patients.
+
+
+Record #11 of 18
+ID: CN-00330152
+AU: Nishina K
+AU: Mikawa K
+AU: Shiga M
+AU: Takao Y
+AU: Maekawa N
+AU: Obara H
+TI: Diclofenac and flurbiprofen with or without clonidine for postoperative analgesia in children undergoing elective ophthalmological surgery.
+SO: Paediatric anaesthesia
+YR: 2000
+VL: 10
+NO: 6
+PG: 645-51
+PM: PUBMED 11119198
+XR: EMBASE 2000428770
+PT: Clinical Trial; Journal Article; Randomized Controlled Trial
+AD: Department of Anaesthesiology, Kobe University School of Medicine, Chuo-ku, Kobe, Japan.
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/152/CN-00330152/frame.html
+KY: Administration, Oral; Administration, Rectal; Analgesics [administration & dosage]; Anti-Inflammatory Agents, Non-Steroidal [administration & dosage]; Clonidine [administration & dosage]; Diclofenac [administration & dosage]; Drug Therapy, Combination; Flurbiprofen [administration & dosage]; Injections, Intravenous; Ophthalmologic Surgical Procedures; Pain, Postoperative [drug therapy] [prevention & control]; Pain Measurement; Surgical Procedures, Elective; Child; Humans
+CC: SR-CHILD; SR-SYMPT
+AB: We conducted a prospective, randomized study to compare the efficacy of preoperative diclofenac, flurbiprofen, and clonidine, given alone, as well as the combination of diclofenac and clonidine, and flurbiprofen and clonidine in controlling postoperative pain in 125 children. The patients (ASA I, 2-12 years) undergoing elective ophthalmological surgery were allocated to one of five groups: rectal diclofenac 2 mg.kg(-1) following oral placebo premedication, i. v. flurbiprofen 1 mg.kg(-1) following placebo premedication, oral clonidine premedication, rectal diclofenac 2 mg.kg(-1) following clonidine, and i.v. flurbiprofen 1 mg.kg(-1) following clonidine. The children received clonidine (4 microg.kg(-1)) or placebo 105 min before anaesthesia. Diclofenac or flurbiprofen was given immediately after induction of anaesthesia. Anaesthesia was induced and maintained with sevoflurane and nitrous oxide in oxygen. Postoperative pain was assessed by a blinded observer using a modified objective pain scale (OPS). No opioids were administered throughout the study. Rectal diclofenac 2 mg.kg(-1) i.v. flurbiprofen 1 mg.kg(-1), oral clonidine 4 microg.kg(-1) provided similar OPS scores and requirement for supplementary analgesics during 12 h after surgery. Combination of oral clonidine and one of these nonsteroidal analgesics minimized postoperative pain. Our findings suggest that this combined regimen may be a promising prophylactic approach to postoperative pain control in children undergoing ophthalmological surgery.
+
+
+Record #12 of 18
+ID: CN-00332126
+AU: Shiga M
+AU: Nishina K
+AU: Mikawa K
+AU: Uesugi T
+AU: Maekawa N
+AU: Obara H
+TI: Oral clonidine premedication does not change efficacy of simulated epidural test dose in sevoflurane-anesthetized children.
+SO: Anesthesiology
+YR: 2000
+VL: 93
+NO: 4
+PG: 954-8
+PM: PUBMED 11020745
+XR: EMBASE 2000360778
+PT: Clinical Trial; Comparative Study; Journal Article; Randomized Controlled Trial; Research Support, Non-U.S. Gov't
+AD: Department of Anesthesiology, Kobe Children's Hospital, Kobe, Japan.
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/126/CN-00332126/frame.html
+KY: Administration, Oral; Adrenergic Agonists [administration & dosage] [diagnostic use]; Adrenergic alpha-Agonists [administration & dosage] [adverse effects]; Adrenergic beta-Agonists [administration & dosage] [diagnostic use]; Analgesics [administration & dosage] [adverse effects]; Anesthesia, Epidural [methods]; Anesthesia, Inhalation [methods]; Anesthetics, Inhalation; Blood Pressure [drug effects]; Clonidine [administration & dosage] [adverse effects]; Drug Interactions; Electrocardiography [drug effects]; Epinephrine [administration & dosage] [diagnostic use]; Heart Rate [drug effects]; Injections, Intravenous; Isoproterenol [administration & dosage] [diagnostic use]; Methyl Ethers; Preanesthetic Medication [adverse effects]; Sensitivity and Specificity; Child; Child, Preschool; Humans; Infant
+CC: SR-CHILD
+AB: BACKGROUND: Caudal epidural anesthesia is often used as an adjunct to general anesthesia and for postoperative pain relief in children. In anesthetized children, epinephrine and isoproterenol are reliable indicators to detect accidental intravascular injection of a test dose. Oral clonidine, a useful premedicant in pediatric anesthesia, modifies hemodynamic responses to sympathomimetics, including catecholamines. The aim of the current study was to determine whether oral clonidine premedication alters the efficacy of a simulated intravascular test dose containing epinephrine or isoproterenol in sevoflurane-anesthetized children. METHODS: One hundred twenty children (aged 1-7 yr) were randomly divided into six groups; control-saline, control-epinephrine, control-isoproterenol, clonidine-saline, clonidine-epinephrine, and clonidine-isoproterenol. The three clonidine groups received oral clonidine 4 microg/kg [DOSAGE ERROR CORRECTED] as premedication, whereas the three control groups did not receive any premedication. Anesthesia was maintained with sevoflurane at a level of 1.2 minimum alveolar concentration. After hemodynamics were stable, 0.1 ml/kg of 1% lidocaine containing epinephrine 0.5 mg/kg or isoproterenol 75 ng/kg was intravenously given to the two epinephrine or isoproterenol groups, respectively, to simulate intravascular injection of a test dose. The saline groups received saline alone instead of the test dose. Heart rate, blood pressure, and T-wave amplitude of electrocardiogram were recorded before and after administration of study drugs for subsequent analysis. RESULTS: Test solution containing epinephrine increased heart rate, systolic blood pressure, and T-wave amplitude. Oral clonidine had no effect on elevation of these variables in response to epinephrine. The isoproterenol-containing test dose produced a prominent increase in heart rate and a less pronounced increase in systolic blood pressure and T-wave amplitude. Oral clonidine also failed to modify isoproterenol-induced hemodynamic and T-wave changes. Calculated sensitivity and specificity of epinephrine or isoproterenol were all 100% based on a new heart rate criterion (positive if >/= 10 beats/min) and were unaltered by oral clonidine premedication. CONCLUSIONS: Epinephrine or isoproterenol is a reliable marker to detect accidental intravascular injection of a test dose with 100% sensitivity and specificity based on a new heart rate criterion in sevoflurane-anesthetized children. These data suggest that oral clonidine premedication does not alter the efficacy of a simulated epidural test dose containing epinephrine or isoproterenol.
+
+
+Record #13 of 18
+ID: CN-00455903
+AU: Kuvaki B
+AU: Kucukguclu S
+AU: Senturk Z
+AU: Turkoz A
+TI: [Rectal premedication in children: clonidine compared with midazolam]
+OT: Cocuk hastalard rektal premeikasyonda klonidin ile midazolamin karsilastirilmasi
+SO: Turk Anesteziyoloji Ve Reanimasyon
+YR: 1998
+VL: 26
+NO: 1
+PG: 30-33
+DE: RCT
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/903/CN-00455903/frame.html
+CC: SR-CHILD; SR-COLOCA; SR-SYMPT
+AB: We investigated the sedative and possible analgesic effects of clonidine and compared with midazolam after rectal administration in pediatric patients. Fourty children (ASA grade I, 2-10 years old) undergoing inguinal hernia were designed randomly to receive either clonidine 2.5 microg/kg (n=20) or midazolam 0.5 mg/kg (n=20) 30 minutes before the induction of anaesthesia . Children's level of sedation and degree of acceptance of mask application during induction of anaesthesia were assessed by an anaesthetist unaware of the used drug, whereas postoperative level of pain was assessed by the parent using the Rating Scale. Rectal administration of 2.5 micro/kg clonidine in children didn't produce efficacious and analgesia when compared with 0.5 mg/kg midazolam.
+
+
+Record #14 of 18
+ID: CN-00200689
+AU: Kuvaki B
+AU: Kucukguclu S
+AU: Senturk Z
+AU: Turkoz A
+TI: Rectal premedication in children: Clonidine compared with midazolam: <ORIGINAL> COCUK HASTALARDA REKTAL PREMEDIKASYONDA KLONIDIN ILE MIDAZOLAMIN KARSILASTIRILMASI
+SO: Turk Anesteziyoloji Ve Reanimasyon
+YR: 1998
+VL: 26
+NO: 1
+PG: 30-33
+XR: EMBASE 1998107189
+DE: RCT
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/689/CN-00200689/frame.html
+KY: <De1> Clonidine --Clinical Trial --Ct/ Clonidine --Drug Administration --Ad/ Clonidine --Drug Comparison --Cm/ Clonidine --Drug Dose --Do/ Clonidine --Pharmacology --Pd/ Midazolam --Clinical Trial --Ct/ Midazolam --Drug Administration --Ad/ Midazolam --Drug Comparison --Cm/ Midazolam --Drug Dose --Do/ Midazolam --Pharmacology --Pd/ <De3> Inguinal Hernia --Surgery --Su/ Premedication/ <De4> Pediatric Anesthesia/ Sedation/ Analgesic Activity/ Drug Efficacy/ Human/ Clinical Article/ Controlled Study/ Child/ Rectal Drug Administration
+AB: We investigated the sedative and possible analgesic effects of clonidine and compared with midazolam after rectal administration in pediatric patients. Fourty children (ASA grade I, 2-10 years old) undergoing inguinal hernia were designed randomly to receive either clonidine 2.5 microg/kg (n=20) or midazolam 0.5 mg/kg (n=20) 30 minutes before the induction of anaesthesia . Children's level of sedation and degree of acceptance of mask application during induction of anaesthesia were assessed by an anaesthetist unaware of the used drug, whereas postoperative level of pain was assessed by the parent using the Rating Scale. Rectal administration of 2.5 micro/kg clonidine in children didn't produce efficacious and analgesia when compared with 0.5 mg/kg midazolam. Copyright © 2010 Elsevier B. V., Amsterdam. All Rights Reserved.
+
+
+Record #15 of 18
+ID: CN-00160283
+AU: Reimer EJ
+AU: Dunn GS
+AU: Montgomery CJ
+AU: Sanderson PM
+AU: Scheepers LD
+AU: Merrick PM
+TI: The effectiveness of clonidine as an analgesic in paediatric adenotonsillectomy.
+SO: Canadian journal of anaesthesia = Journal canadien d'anesthésie
+YR: 1998
+VL: 45
+NO: 12
+PG: 1162-7
+PM: PUBMED 10051933
+PT: Clinical Trial; Comparative Study; Journal Article; Randomized Controlled Trial; Research Support, Non-U.S. Gov't
+AD: Department of Anaesthesia, University of British Columbia, Vancouver, Canada. elreimer@interchange.ubc.ca
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/283/CN-00160283/frame.html
+KY: Acetaminophen [administration & dosage] [therapeutic use]; Adenoidectomy; Administration, Oral; Analgesics [administration & dosage] [adverse effects] [therapeutic use]; Analgesics, Non-Narcotic [administration & dosage] [therapeutic use]; Analgesics, Opioid [administration & dosage] [adverse effects] [therapeutic use]; Blood Pressure [drug effects]; Clonidine [administration & dosage] [adverse effects] [therapeutic use]; Codeine [administration & dosage] [therapeutic use]; Consciousness [drug effects]; Deglutition [physiology]; Double-Blind Method; Fentanyl [administration & dosage] [adverse effects] [therapeutic use]; Follow-Up Studies; Incidence; Injections, Intravenous; Intraoperative Care; Morphine [administration & dosage] [therapeutic use]; Pain, Postoperative [prevention & control]; Pain Measurement; Premedication; Tonsillectomy; Child; Female; Humans; Male
+CC: SR-ANAESTH; SR-CHILD; SR-ENT; SR-SYMPT
+AB: PURPOSE: To compare the analgesic effects of preoperative oral clonidine with intraoperative intravenous fentanyl in children undergoing tonsillectomy or adenotonsillectomy. METHODS: This randomized, controlled, double-blind study of 36 ASA I-II children, age 7-12 yr undergoing adenotonsillectomy was conducted at a tertiary care paediatric teaching hospital. Either 4 micrograms.kg-1 clonidine po was given 60-90 min preoperatively or 3 micrograms.kg-1 fentanyl i.v. was given intraoperatively. Postoperatively visual analog pain scores (VAS) were recorded at rest and on swallowing every 10 min for the first 30 min and then every 15 min for two hours. Morphine 0.05 mg.kg-1 i.v. was given for VAS > or = 5. If > 3 doses were required, 1.5 mg.kg-1 codeine po and 20 mg.kg-1 acetaminophen po were given. Sedation and anxiety scores were recorded preoperatively. Haemodynamic changes, blood loss, recovery scores, and the incidence of vomiting, hypotension, and airway obstruction were recorded. RESULTS: Children who received clonidine had a higher incidence of preoperative sedation (63%) than those receiving fentanyl (6%). Preinduction mean arterial pressure was lower in the clonidine group but required no intervention. VAS scores were similar throughout the observation period. There was no difference either in the number of morphine or codeine rescue doses administered or in the incidence of side effects. CONCLUSION: Oral clonidine is an effective analgesic and sedative for children undergoing tonsillectomy or adenotonsillectomy.
+
+
+Record #16 of 18
+ID: CN-00123008
+AU: Mikawa K
+AU: Nishina K
+AU: Maekawa N
+AU: Obara H
+TI: Oral clonidine premedication reduces postoperative pain in children.
+SO: Anesthesia and analgesia
+YR: 1996
+VL: 82
+NO: 2
+PG: 225-30
+PM: PUBMED 8561317
+PT: Clinical Trial; Journal Article; Randomized Controlled Trial
+AD: Department of Anaesthesiology, Kobe University School of Medicine, Japan.
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/008/CN-00123008/frame.html
+KY: Administration, Oral; Adrenergic alpha-Agonists [administration & dosage] [therapeutic use]; Analgesics [therapeutic use]; Anesthesia; Clonidine [administration & dosage] [therapeutic use]; Hemodynamics; Pain, Postoperative [drug therapy] [prevention & control]; Pain Measurement; Postoperative Complications; Preanesthetic Medication; Prospective Studies; Respiration; Surgical Procedures, Elective; Child; Child, Preschool; Humans
+CC: SR-ANAESTH; SR-CHILD; SR-SYMPT
+AB: Clonidine is an effective preanesthetic medication in children, providing a preoperative sedative effect. The analgesic properties of the drug have been well documented in adults. The current study was designed to investigate the effect of oral clonidine given preoperatively on postoperative pain in children undergoing minor surgery. In a prospective, randomized, controlled clinical trial, 90 children aged 5-12 yr undergoing elective ophthalmic, urologic, and otologic surgery received placebo (control), clonidine 2 micrograms/kg, or clonidine 4 micrograms/kg. These drugs were administered 105 min before the estimated time of induction of anesthesia and followed by treatment with oral atropine 0.03 mg/kg 60 min before anesthesia. Anesthesia was induced and maintained with halothane and nitrous oxide in oxygen. Postoperative pain was assessed by a blinded observer using an objective pain scale (OPS). Clonidine 4 micrograms/kg provided lower OPS (highest) scores during 12 h after surgery and reduced requirement for postoperative supplementary analgesic (diclofenac suppository) compared with the other two regimens. These data suggest that oral clonidine premedication (4 micrograms/kg) is a possible approach to facilitating postoperative analgesia in children undergoing minor surgery.
+
+
+Record #17 of 18
+ID: CN-00113756
+AU: Nishina K
+AU: Mikawa K
+AU: Maekawa N
+AU: Obara H
+TI: Oral clonidine premedication blunts the heart rate response to intravenous atropine in awake children.
+SO: Anesthesiology
+YR: 1995
+VL: 82
+NO: 5
+PG: 1126-30
+PM: PUBMED 7741287
+XR: EMBASE 1995148323
+PT: Clinical Trial; Journal Article; Randomized Controlled Trial; Research Support, Non-U.S. Gov't
+AD: Department of Anesthesiology, Kobe University School of Medicine, Japan.
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/756/CN-00113756/frame.html
+KY: Administration, Oral; Adolescent; Atropine [pharmacology]; Clonidine [administration & dosage] [pharmacology]; Heart Rate [drug effects]; Infusions, Intravenous; Preanesthetic Medication; Wakefulness; Child; Humans
+CC: SR-ANAESTH; SR-CHILD
+AB: BACKGROUND: Clonidine, which is known to have analgesic and sedative properties, has recently been shown to be an effective preanesthetic medication in children. The drug may cause side effects, including bradycardia and hypotension. This study was conducted to evaluate the ability of intravenous atropine to increase the heart rate (HR) in awake children receiving clonidine preanesthetic medication. METHODS: We studied 96 otherwise healthy children, 8-13 yr old, undergoing minor surgery. They received, at random, oral clonidine 2 or 4 micrograms.kg-1 or placebo 105 min before scheduled induction of anesthesia. Part I (n = 48, 16 per group): When hemodynamic parameters after insertion of a venous catheter had been confirmed to be stable, atropine was administered in incremental doses of 2.5, 2.5, and 5 micrograms.kg-1 every 2 min. The HR and blood pressure were recorded at 1-min intervals. Part II (n = 48, 16 per group): After the recording of baseline hemodynamic values, successive doses of atropine (5 micrograms.kg-1 every 2 min, to 40 micrograms.kg-1), were administered until HR increased by 20 beats.min-1. The HR and blood pressure were recorded at 1-min intervals. RESULTS: Part I: The increases in HR in response to a cumulative dose of atropine 10 micrograms.kg-1 were 33 +/- 3%, 16 +/- 3%, and 8 +/- 2% (mean +/- SEM) in children receiving placebo, clonidine 2 micrograms.kg-1, and clonidine 4 micrograms.kg-1, respectively (P < 0.05). Part II: The HR in the control group increased by more than 20 beats.min-1 in response to atropine 20 micrograms.kg-1 or less. In two patients in the clonidine 4 micrograms.kg-1 group, HR did not increase by 20 beats.min-1 even after 40 micrograms.kg-1 of atropine. CONCLUSIONS: Oral clonidine premedication (4 micrograms.kg-1) blunted the increase in HR after intravenous atropine in awake children, although clonidine 2 micrograms.kg-1 did not. A larger dose of atropine was required to increase the HR by 20 beats.min-1 in children receiving the premedicant in the larger dose.
+
+
+Record #18 of 18
+ID: CN-00122198
+AU: Mikawa K
+AU: Nishina K
+AU: Maekawa N
+AU: Asano M
+AU: Obara H
+TI: Oral clonidine premedication reduces vomiting in children after strabismus surgery.
+SO: Canadian journal of anaesthesia = Journal canadien d'anesthésie
+YR: 1995
+VL: 42
+NO: 11
+PG: 977-81
+PM: PUBMED 8590507
+XR: EMBASE 1995342978
+PT: Clinical Trial; Comparative Study; Journal Article; Randomized Controlled Trial
+AD: Department of Anaesthesiology, Kobe University School of Medicine, Japan.
+US: http://www.mrw.interscience.wiley.com/cochrane/clcentral/articles/198/CN-00122198/frame.html
+KY: Administration, Oral; Adrenergic alpha-Agonists [administration & dosage] [therapeutic use]; Anesthesia, Inhalation; Antiemetics [administration & dosage] [therapeutic use]; Anti-Inflammatory Agents, Non-Steroidal [administration & dosage]; Clonidine [administration & dosage] [therapeutic use]; Diazepam [administration & dosage] [therapeutic use]; Diclofenac [administration & dosage]; Double-Blind Method; Incidence; Length of Stay; Midazolam [administration & dosage] [therapeutic use]; Neuromuscular Nondepolarizing Agents [administration & dosage]; Pain, Postoperative [prevention & control]; Placebos; Postoperative Complications [prevention & control]; Preanesthetic Medication; Premedication; Prospective Studies; Strabismus [surgery]; Vecuronium Bromide [administration & dosage]; Vomiting [prevention & control]; Child; Child, Preschool; Female; Humans; Male
+CC: SR-ANAESTH; SR-CHILD; SR-EYES
+AB: This is a prospective randomized double-blind trial conducted to determine whether preoperative orally administered clonidine causes or potentiates postoperative vomiting in 140 children (3-12 yr) undergoing strabismus surgery. They were all inpatients and classified randomly into four groups (n = 35 each); placebo (control), diazepam 0.4 mg.kg-1, clonidine 2 micrograms.kg-1, and clonidine 4 micrograms.kg-1. These agents were administered 93-112 min (mean; 100 min) before the anticipated time of induction of anaesthesia. All children received inhalational anaesthesia with halothane and nitrous oxide in oxygen. Muscle relaxation in all patients was obtained with vecuronium and residual neuromuscular blockade was antagonized with neostigmine and atropine before tracheal extubation. Diclofenac suppository was prescribed to prevent postoperative pain. No opioids or postoperative antiemetics were administered. All children remained in hospital for two days postoperatively. The incidence and frequency of vomiting were compared in the groups with Kruskall-Wallis Rank test. Clonidine 4 micrograms.kg-1 caused a lower incidence and frequency of vomiting than did placebo and diazepam (incidence and frequency: 11% and 1.37% and 3, and 34% and 2 in clonidine 4 micrograms.kg-1, placebo, and diazepam, respectively; P < 0.05 for clonidine 4 micrograms.kg-1 vs placebo and diazepam). However, low-dose clonidine was ineffective. These data suggest that preanaesthetic medication with clonidine 4 micrograms.kg-1 may be useful for preventing emesis following strabismus surgery. This property of clonidine indicates that it may be superior to other sedative premedicants such as diazepam and midazolam.
+

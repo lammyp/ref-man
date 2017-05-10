@@ -1,0 +1,158 @@
+<1>
+Accession Number
+  2010301371
+Authors
+  Serreau R.
+Institution
+  (Serreau) Groupe hospitalier Cochin-Tarnier, 27, rue du Faubourg Saint-Jacques, 75679 Paris cedex 14, France
+Title
+  Drugs during preeclampsia. Fetal risks and pharmacology.
+Original Title
+  Medicaments utilises dans la prise en charge de la preeclampsie. Pharmacologie et risques foetaux.
+Source
+  Annales Francaises d'Anesthesie et de Reanimation. 29 (4) (pp e37-e46), 2010. Date of Publication: April 2010.
+Publisher
+  Elsevier Masson SAS (62 rue Camille Desmoulins, Issy les Moulineaux Cedex 92442, France)
+Abstract
+  During pregnancy, the maternal, placental and fetal physiological characteristics constantly evolve and thereby constantly alter drug bioavailability in the mother and feto-placental unit. Gastric emptying time is increased and bowel movements are reduced. Distribution in the maternal body is mainly influenced by body mass variations, water content and fat stores. Metabolic capacity of the liver appears unchanged but renal clearance of drugs is gradually increased.The placental transfer of most drugs mainly consists of passive diffusion between the maternal and fetal circulations, along their respective concentration gradients. Only the free, unbound and non-ionized fraction of the drug readily crosses the membranes.Four anti-hypertensive drugs have been granted a license for the treatment of PE since the year 2000: these are Clonidine (Catapressan<sup></sup>), Nicardipine (Loxen+), Labetalol (Trandate<sup></sup>), Dihydralazine (Nepressol<sup></sup>).Dihydralazine, Labetalol and Nicardipine are not contraindicated in the breast feeding mother. The administration of a long acting Benzodiazepine during pregnancy can lead to new born intoxication of variable severity and duration. These symptoms may precede a withdrawal syndrome (hyper-excitability, tremor, gastro-intestinal upset, such as diarrhea orvomiting). Breast feeding by mothers using benzodiazepines (Nitrazepam and Midazolam) is not recommended.In France, the use of low molecular weight heparins is not recommended during pregnancy whereas in the United States, they are recommended as a prophylactic measure. Their high molecularweight prevents their diffusion across the placental membrane and therefore prevents any fetal or neonatal risk.Bromocriptine is used as an inhibitor of lactation.During the post-partum period, serious accidents have been described: these consist of systemic hypertension, fits, infarcts (cardiac and neurological).It is contraindicated in case of systemic hypertension.  2010 Elsevier Masson SAS.
+
+<2>
+Accession Number
+  2009602989
+Authors
+  Zhang Z.-R.
+Title
+  New techonologies in pharmaceutics and their function in improving the pharmacodynamics of drugs.
+Source
+  Chinese Pharmaceutical Journal. 44 (20) (pp 1525-1532), 2009. Date of Publication: October 2009.
+Publisher
+  Chinese Pharmaceutical Association (A389, Beilishi Road, Beijing 100810, China)
+
+<3>
+Accession Number
+  17984563
+Authors
+  Adeishvili-Anguladze L.V. Makharadze R.V. Kurtsikidze M.S. Abuladze N.B. Kintsurashvili K.M.
+Title
+  New methods of chemical and toxicological study of clonidine (Clophelinum).
+Source
+  Georgian medical news.  (150) (pp 46-49), 2007. Date of Publication: Sep 2007.
+Abstract
+  Clophelinum (clonidine) has hypotensive and soothing effect. The literature describes cases of a poisoning with clonidine, the majority of which are of the criminal character. Symptoms of clonidine intoxication differ from poisoning with other substances. Clinical picture of poisoning with clonidine is complex enough. Pathological and histological changes in internal organs in case of poisoning with clonidine are non specific. The methods of sampling, isolation, and qualitative determination need improvement. The aim of the research was investigation of chemical and toxicological properties of Clophelinum to develop new techniques of isolation and identification of clonidine. The technique of isolation is characterized by high degree of isolation (96 %), and technique of identification by high sensitivity (0,1 mkg/ml), which proves their efficiecy.
+
+<4>
+Accession Number
+  17718087
+Authors
+  Burkin A.A. Burkin M.A.
+Title
+  Enzyme immunoassay of clofelin.
+Source
+  Sudebno-meditsinskaia ekspertiza. 50 (4) (pp 30-32), 2007. Date of Publication: 2007 Jul-Aug.
+
+<5>
+Accession Number
+  2007167366
+Authors
+  Higo N.
+Institution
+  (Higo) R and D Division, Formulation Research Laboratories, Hisamitsu Pharmaceutical Co., Inc., 408 Tashirodaikan-machi, Tosu City, Saga 841-0017, Japan
+Title
+  The recent trend of transdermal drug delivery system development.
+Source
+  Yakugaku Zasshi. 127 (4) (pp 655-662), 2007. Date of Publication: April 2007.
+Publisher
+  Pharmaceutical Society of Japan
+Abstract
+  The potential of transdermal drug delivery systems has been demonstrated in recent years with the approval of several medicines for use by patients who are unable to use conventional dosage routes, like oral administration or injection. To enhance the TDDS (Transdermal Drug Delivery System) potential to include other drug candidates, many researchers have been exploring enhancement approaches to increase the permeability of various drugs through the skin. Recently, physical enhancement systems are being reported as having big potential by many researchers. In particular, iontophoresis is a very attractive way of delivering ionized drugs by the application of an electric field to the skin. This has been marketed with some topical and systemic drugs (lidocaine and fentanyl). Sonophoresis is also an attractive method to deliver a drug through the skin using ultrasound. Besides these technologies, various physical approaches are under study. Such technologies can be expected to deliver not only small MW compounds but also macromolecules like peptides. In this article, after looking back through the history of TDDS development, I would like to summarize with new physical and chemical approaches and outline of the new trend of TDDS development with those enhancement system.  2007 The Pharmaceutical Society of Japan.
+
+<6>
+Accession Number
+  2006434412
+Authors
+  Remko M.
+Institution
+  (Remko) Farmaceuticka Fakulta UK, Katedra Farmaceutickej Chemie, Bratislava, Slovakia
+  (Remko) Komenskeho Univerzita, Farmaceuticka Fakulta, Katedra Farmaceutickej Chemie, Odbojarov 10, SK-832 32 Bratislava, Slovakia
+Title
+  Physicochemical and pharmacokinetic properties of some centrally acting antihypertensives.
+Original Title
+  Fyzikalnochemicke a farmakokineticke vlastnosti centralne ucinkujucich antihypertenziv.
+Source
+  Farmaceuticky Obzor. 75 (6) (pp 139-146), 2006. Date of Publication: 2006.
+Publisher
+  Slovenska zdravotnicka univerzita (Limbova 12 833 03, Slovakia)
+Abstract
+  The application of the methods of theoretical chemistry to elucidate the molecular properties of substituted imidazoline and oxazoline structures, a class of potent agonists and antagonists of imidazoline receptors is discussed and reviewed. Structure, pK<sub>a</sub>, lipophilicity, solubility, absorption, and polar surface area of clinically useful clonidine, moxonidine, rilmenidine and their derivatives have been determined. The results of our study are discussed with the current theories of molecular action of these centrally acting antihypertensives.
+
+<7>
+Accession Number
+  2005519332
+Authors
+  Huber D. Kretz F.-J.
+Institution
+  (Huber) Zentrum Anasthesiologie, Medizinische Hochschule Hannover, Hannover, Germany
+  (Kretz) Klinik fur Anasthesiologie und Operative Intensivmedizin, Olgahospital, Padiatrisches Zentrum
+  (Huber) Zentrum Anasthesiologie, Medizinische Hochschule Hannover, Carl-Neuberg-Strase 1, 30625 Hannover, Germany
+Title
+  Efficacy of clonidine in paediatric anaesthesia.
+Original Title
+  Clonidin in der kinderanasthesie.
+Source
+  Anasthesiologie Intensivmedizin Notfallmedizin Schmerztherapie. 40 (10) (pp 567-575), 2005. Date of Publication: October 2005.
+Publisher
+  Georg Thieme Verlag
+Abstract
+  Clonidine is a mixed alpha<sub>2</sub>-/alpha<sub>1</sub>-adrenoceptor agonist. It decreases sympathetic tone and increases parasympathetic tone, which results in a lowering of blood pressure and heart rate. It was introduced as an antihypertensive medication in the late sixties. Yet Clonidine also has a sedative effect due to alpha<sub>2</sub>-adrenoceptor stimulation in the locus coeruleus and antinociceptiv action caused through postjunctional noradrenergic pathways in the brainstem and spinal cord. This analgesic property of Clonidine has raised broad interest in its beneficial use in anaesthesiology. In adults and pediatric anaesthesia, clonidine can be safely and effectively used for premedication, intraoperative and postoperative analgesia, postoperative shivering, and for analgosedation in intensive care. This article will consider possible indications of Clonidine in children's anaesthesia and intensive care medicine.  Georg Thieme Verlag KG Stuttgart.
+
+<8>
+Accession Number
+  15338881
+Authors
+  Ke G.-M. Zhang E.-H. Wang L. Zhang Q. Du H.-G. Guo H.-Y.
+Institution
+  (Ke, Zhang, Du, Guo) College of Science, Beijing Univ. of Chemical Technology, Beijing 100029, China
+  (Wang) Beijing KBD Pharmaceutical T., Beijing 100089, China
+  (Zhang) School of Pharmaceutical Science, Peking University, Beijing 100081, China
+Title
+  Determination of clonidine in rabbit plasma by HPLC-MS.
+Source
+  Yaoxue Xuebao. 39 (5) (pp 367-369), 2004. Date of Publication: May 2004.
+Publisher
+  Zhonghua Yixuehui Zazhishe
+Abstract
+  Aim: To determine clonidine in rabbit plasma by LC-MS. Methods: The LC-MS system consisted of Waters Alliance 2790 HPLC and Micromass ZQ-4000 MS. The HPLC was performed by using XTerra C<sub>18</sub> (150 mm x 2.1 mm ID, 5 mum). The mobile phase, consisting of acetonitrile/ammonium hydrogen carbonate solution, was maintained to a flow-rate of 0.2 mLmin<sup>-1</sup> and the linear gradient elution was adopted. Mass spectrum was obtained by using electrospray ionization interface and the m/z of SIM was 230. Results: The average recovery was high and the method was reproducible. The calibration curve showed good linearity in the range of 1-80 mugL<sup>-1</sup>, the lowest limit of detection was 0.05 mugL<sup>-1</sup>. The C<sub>max</sub>, AUC <sub>0-t</sub> and T<sub>max</sub> value of the pharmacokinetics parameter were (27 +/- 9) mugL<sup>-1</sup>, (5 352 +/- 1 121) mugL<sup>-1</sup>, (79 +/- 17) h. Conclusion: The results demonstrated that the method had high sensitivity, good selectivity, accuracy and precision. It is used to determine the clonidine concentration in plasma. The transdermal patch can deliver clonidine to the surface of rabbit skin stably for periods of up to 1 week after a single application.
+
+<9>
+Accession Number
+  15011413
+Authors
+  Hirai S.
+Institution
+  (Hirai) Gunma University.
+Title
+  Dementia induced by cardiokinetic and anti-hypertensive drugs.
+Source
+  Nippon rinsho. Japanese journal of clinical medicine. 62 Suppl  (pp 494-497), 2004. Date of Publication: Jan 2004.
+
+<10>
+Accession Number
+  2004329450
+Authors
+  Boussofara M. Mtaallah M.H. Nefaa M.N. Kaddour C.
+Institution
+  (Boussofara, Mtaallah) Institut Salah Azaeiez, Tunis, Tunisia
+  (Nefaa, Kaddour) Service d'Anesthesie Reanimation, Institut National de Neurologie, Tunis, Tunisia
+Title
+  Clonidine and anesthesia.
+Original Title
+  Les indications de la clonidine en anesthesie.
+Source
+  Tunisie Medicale. 82 (3) (pp 249-257), 2004. Date of Publication: March 2004.
+Publisher
+  Maison du Medicine
+Abstract
+  The alpha2-adrenoceptor agonists have several beneficial actions during the perioperative period. They exert a central sympatholytic action, improving haemodynamic stability in response to endotracheal intubation and surgical stress, reducing the anesthetic and opioid requirements and causing sedation, anxiolysis and analgesia. Furthermore, alpha2-adrenoceptor agonists may offer benefits in the prophylaxis and treatment of perioperative myocardial ischaemia. Recent alpha2-adrenoceptor agonists with short duration of action (dexmedetomidine and mivazerol) are adapted for the administration to patients at high risk for coronary artery disease during surgery. The alpha2-adrenoceptor agonists have an analgesic action at several sites of the peripheral and central nervous system as well as the prolongation of epidurally or intrathecally administered local anesthetics and opioids.
+
+
+

@@ -1,0 +1,49 @@
+<1>
+Unique Identifier
+  20158620
+Authors
+  Akin A.  Ocalan S.  Esmaoglu A.  Boyaci A.
+Title
+  The effects of caudal or intravenous clonidine on postoperative analgesia produced by caudal levobupivacaine in children.
+Source
+  Paediatric Anaesthesia.  20(4):350-5, 2010 Apr.
+Local Messages
+  Check list of Print and Electronic Journals held by RGH Library
+Abstract
+  BACKGROUND: Clonidine is used increasingly in pediatric anesthesia practice to prolong the duration of action of caudal block with a local anesthetic agent. Which route of administration of clonidine is the most beneficial remains unknown. We compared the effects of caudal and intravenous clonidine on postoperative analgesia produced by caudal levobupivacaine. METHODS: Sixty ASA I and II children, aged 2-8 undergoing inguinal hernia repair or orchidopexy surgery received standardized premedication with midazolam and general anesthesia. The children were randomized in a double-blind fashion to three groups. Group L (n = 20) patients received 0.75 ml x kg(-1) of caudal 0.25% levobupivacaine and i.v. 5 ml saline, Group L-Ccau (n = 20) patients received 0.75 ml x kg(-1) of caudal 0.25% levobupivacaine + 2 microg x kg(-1) clonidine and i.v. 5 ml saline, Group L-Civ (n = 20) patients received 0.75 ml x kg(-1) of caudal 0.25% levobupivacaine and i.v. 2 microg x kg(-1) clonidine in 5 ml of saline. Mean arterial blood pressure, heart rate, peripheral oxygen saturation, and end-tidal carbon dioxide values were recorded. Postoperative pain [Children and Infants Postoperative Pain Scale (CHIPPS) score], sedation (Ramsay Sedation Scale) and motor blockade (Modified Bromage Scale) were assessed at predetermined time points during the first 24 h after surgery. RESULTS: Caudal clonidine significantly delayed the time to first rescue analgesic and fewer patients required rescue analgesia in the 24 h after surgery. No motor block was observed in any of the three groups on awakening or during the study period. In Group L-Ccau, the CHIPPS score was lower than in Group L at all times through 240 min (P < 0.05), while the pain scores were lower in Group L-Civ only at extubation and at 240 min (P < 0.05). CONCLUSIONS: Caudal clonidine prolongs the duration of analgesia produced by caudal levobupivacaine without causing significant side effects and this is because of a spinal mode of action.
+Link to the Ovid Full Text or citation
+  http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=fulltext&D=medl&AN=20158620
+
+<2>
+Unique Identifier
+  20085541
+Authors
+  Dahmani S.  Brasher C.  Stany I.  Golmard J.  Skhiri A.  Bruneau B.  Nivoche Y.  Constant I.  Murat I.
+Title
+  Premedication with clonidine is superior to benzodiazepines. A meta analysis of published studies. [Review] [24 refs]
+Source
+  Acta Anaesthesiologica Scandinavica.  54(4):397-402, 2010 Apr.
+Local Messages
+  Check list of Print and Electronic Journals held by RGH Library
+Abstract
+  BACKGROUND: Premedication is considered important in pediatric anesthesia. Benzodiazepines are the most commonly used premedication agents. Clonidine, an alpha2 adrenoceptor agonist, is gaining popularity among anesthesiologists. The goal of the present study was to perform a meta-analysis of studies comparing premedication with clonidine to Benzodiazepines. METHODS: A comprehensive literature search was conducted to identify clinical trials focusing on the comparison of clonidine and Benzodiazepines for premedication in children. Six reviewers independently assessed each study to meet the inclusion criteria and extracted data. Original data from each trial were combined to calculate the pooled odds ratio (OR) or the mean differences (MD), 95% confidence intervals [95% CI] and statistical heterogeneity were accessed. RESULTS: Ten publications fulfilling the inclusion criteria were found. Premedication with clonidine, in comparison with midazolam, exhibited a superior effect on sedation at induction (OR=0.49 [0.27, 0.89]), decreased the incidence of emergence agitation (OR=0.25 [0.11, 0.58]) and produced a more effective early post-operative analgesia (OR=0.33 [0.21, 0.58]). Compared with diazepam, clonidine was superior in preventing post-operative nausea and vomiting (PONV). DISCUSSION: Premedication with clonidine is superior to midazolam in producing sedation, decreasing post-operative pain and emergence agitation. However, the superiority of clonidine for PONV prevention remains unclear while other factors such as nausea prevention might interfere with this result. [References: 24]
+Link to the Ovid Full Text or citation
+  http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=fulltext&D=medl&AN=20085541
+
+<3>
+Unique Identifier
+  20103833
+Authors
+  Cao J.  Shi X.  Miao X.  Xu J.
+Title
+  Effects of premedication of midazolam or clonidine on perioperative anxiety and pain in children.
+Source
+  Bioscience Trends.  3(3):115-8, 2009 Jun.
+Local Messages
+  Check list of Print and Electronic Journals held by RGH Library
+Abstract
+  The aim of the present study was to compare clinical effects of oral midazolam and clonidine premedication in children. In a prospective randomized double blind trial, 45 children between 2-8 years old received either oral midazolam 0.5 mg/kg (group M) or clonidine at 2 microg/kg (group C 2) or 4 microg/kg (group C4). The level of sedation, quality of parental separation, mask acceptance and thermodynamics were recorded. Postoperative analgesia, and perioperative side effects were assessed. In comparison to group M, the scores of sedation, parental separation and mask acceptance were significantly higher in group C2 and group C4 (p < 0.05). Also the level of sedation was significantly better in group C 4 than in group C 2 (p < 0.05). However, the rate of postoperative analgesia decreased significantly in group C 2 and C 4 compared to group M. The incidence of shivering was significantly increased in group M compared to group C 2 and C 4 . Oral clonidine premedication can therefore provide better preoperative sedation and postoperative analgesia with few adverse effects.
+Link to the Ovid Full Text or citation
+  http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=fulltext&D=medl&AN=20103833
+
+

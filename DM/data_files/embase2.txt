@@ -1,0 +1,25 @@
+Database: Embase <1980 to 2013 January 23>
+Search Strategy:
+--------------------------------------------------------------------------------
+1     (exp anesthesia/ or exp perioperative period/ or an?esthe*.mp. or perioperative.ti,ab.) and (exp child/ or child*.af. or exp pediatrics/ or p?ediatric*.af.) (59259)
+2     exp postoperative pain/ or exp postoperative complication/ or exp postoperative vomiting/ or postoperative nausea/ or (postoperative adj5 (pain or nausea or vomiting or analgesia)).mp. or (delirium or agitation or pruritus or itch* or sedation or hypotensi* or bradycardi*).mp. (720896)
+3     exp clonidine/ or clonidin*.af. (36032)
+4     1 and 2 and 3 (565)
+5     (randomized-controlled-trial/ or randomization/ or controlled-study/ or multicenter-study/ or phase-3-clinical-trial/ or phase-4-clinical-trial/ or double-blind-procedure/ or single-blind-procedure/ or (random* or cross?over* or multicenter* or factorial* or placebo* or volunteer*).mp. or ((singl* or doubl* or trebl* or tripl*) adj3 (blind* or mask*)).ti,ab. or (latin adj square).mp.) not (animals not (humans and animals)).sh. (4719989)
+6     4 and 5 (210)
+
+***************************
+
+<1>
+Authors
+  Sun Y. Li T. Wang N. Yun Y. Gan T.J.
+Title
+  Perioperative systemic lidocaine for postoperative analgesia and recovery after abdominal surgery: A meta-analysis of randomized controlled trials.
+Source
+  Diseases of the Colon and Rectum. 55 (11) (pp 1183-1194), 2012. Date of Publication: November 2012.
+Publisher
+  Lippincott Williams and Wilkins (530 Walnut Street,P O Box 327, Philadelphia PA 19106-3621, United States)
+Publication Type
+  Journal: Article
+
+

@@ -1,0 +1,1830 @@
+﻿Ovid search 26/4/13
+Search terms:
+1. General anaesthesia (exp, all subheadings)
+2. Cesarian section (exp, all subhheadings)
+3. 1 and 2
+
+
+<5>
+Unique Identifier
+  22918030
+Status
+  MEDLINE
+Authors
+  Bauer ME.  Kountanis JA.  Tsen LC.  Greenfield ML.  Mhyre JM.
+Authors Full Name
+  Bauer, M E.  Kountanis, J A.  Tsen, L C.  Greenfield, M L.  Mhyre, J M.
+Institution
+  Department of Anesthesiology, University of Michigan Health System, Ann Arbor, MI, USA. mbalun@med.umich.edu
+Title
+  Risk factors for failed conversion of labor epidural analgesia to cesarean delivery anesthesia: a systematic review and meta-analysis of observational trials. [Review]
+Source
+  International Journal of Obstetric Anesthesia.  21(4):294-309, 2012 Oct.
+Abstract
+  BACKGROUND: This systematic review and meta-analysis evaluates evidence for seven risk factors associated with failed conversion of labor epidural analgesia to cesarean delivery anesthesia.
+
+  METHODS: Online scientific literature databases were searched using a strategy which identified observational trials, published between January 1979 and May 2011, which evaluated risk factors for failed conversion of epidural analgesia to anesthesia or documented a failure rate resulting in general anesthesia.
+
+  RESULTS: 1450 trials were screened, and 13 trials were included for review (n=8628). Three factors increase the risk for failed conversion: an increasing number of clinician-administered boluses during labor (OR=3.2, 95% CI 1.8-5.5), greater urgency for cesarean delivery (OR=40.4, 95% CI 8.8-186), and a non-obstetric anesthesiologist providing care (OR=4.6, 95% CI 1.8-11.5). Insufficient evidence is available to support combined spinal-epidural versus standard epidural techniques, duration of epidural analgesia, cervical dilation at the time of epidural placement, and body mass index or weight as risk factors for failed epidural conversion.
+
+  CONCLUSION: The risk of failed conversion of labor epidural analgesia to anesthesia is increased with an increasing number of boluses administered during labor, an enhanced urgency for cesarean delivery, and care being provided by a non-obstetric anesthesiologist. Further high-quality studies are needed to evaluate the many potential risk factors associated with failed conversion of labor epidural analgesia to anesthesia for cesarean delivery. Copyright  2012 Elsevier Ltd. All rights reserved.
+Publication Type
+  Journal Article.  Meta-Analysis.  Research Support, Non-U.S. Gov't.  Review.
+Date Created
+  20121001
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22918030
+
+<7>
+Unique Identifier
+  23302979
+Status
+  MEDLINE
+Authors
+  Allyn J.  Guglielminotti J.  Omnes S.  Guezouli L.  Egan M.  Jondeau G.  Longrois D.  Montravers P.
+Authors Full Name
+  Allyn, Jerome.  Guglielminotti, Jean.  Omnes, Sophie.  Guezouli, Laila.  Egan, Michael.  Jondeau, Guillaume.  Longrois, Dan.  Montravers, Philippe.
+Institution
+  Departement Anesthesie Reanimation, Service de Gynecologie et Obstetrique, AP-HP, Hop Bichat-Claude Bernard, Univ Paris Diderot, Sorbonne Paris Cite, Paris, France. allyn.jer@gmail.com
+Title
+  Marfan's syndrome during pregnancy: anesthetic management of delivery in 16 consecutive patients.
+Source
+  Anesthesia & Analgesia.  116(2):392-8, 2013 Feb.
+Abstract
+  BACKGROUND: Marfan's syndrome is characterized by progressive dilatation of the aortic root. This dilatation is accelerated by pregnancy, exposing patients to an increased risk of aortic dissection. Literature on the anesthetic management of delivery in patients with Marfan's syndrome consists only of case reports. We therefore conducted a retrospective review of medical records focusing on anesthetic management of delivery in patients with Marfan's syndrome in a national referral center.
+
+  METHODS: We reviewed the medical records of all pregnant women with Marfan's syndrome who were followed at their institution over a 6-year period.
+
+  RESULTS: Sixteen pregnancies in 15 patients were analyzed. The initial aortic root diameter was larger than 40 mm in 9 patients and larger than 45 mm in 1 patient. Two patients did not receive -blockers throughout pregnancy because of poor tolerance. One patient with an aortic root diameter of 47 mm did not receive -blocker before 33 weeks' gestation because of late referral. This woman developed acute type 1 aortic dissection at 37 weeks, requiring emergency cesarean delivery under general anesthesia followed by aortic repair. Thirteen other patients underwent cesarean delivery, 1 under spinal anesthesia and 12 under general anesthesia. General anesthesia management included close arterial blood pressure monitoring, avoidance of high blood pressure, administration of opioids before delivery, and titrated nicardipine administration. Two patients (including one with intrauterine fetal death) underwent vaginal delivery under epidural analgesia. There were no maternal deaths.
+
+  CONCLUSIONS: Pregnant women with Marfan's syndrome who received care in a multidisciplinary tertiary care setting that included active peripartum involvement of anesthesiologists had good clinical outcomes.
+Publication Type
+  Journal Article.
+Date Created
+  20130123
+Year of Publication
+  2013
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=23302979
+
+<8>
+Unique Identifier
+  23088788
+Status
+  MEDLINE
+Authors
+  Zieleskiewicz L.  Lagier D.  Contargyris C.  Bourgoin A.  Gavage L.  Martin C.  Leone M.
+Authors Full Name
+  Zieleskiewicz, L.  Lagier, D.  Contargyris, C.  Bourgoin, A.  Gavage, L.  Martin, C.  Leone, M.
+Institution
+  Department of Anaesthesia and Intensive Care Medicine, University Hospital of Marseille, Marseille, France. laurent.zieleskiewicz@ap-hm.fr
+Title
+  Lung ultrasound-guided management of acute breathlessness during pregnancy.
+Source
+  Anaesthesia.  68(1):97-101, 2013 Jan.
+Abstract
+  Lung ultrasonography is a standard tool in the intensive care unit and in emergency medicine, but has not been described in the particular setting of the labour ward. During pregnancy, acute respiratory failure and pulmonary oedema are not uncommon life-threatening events. We present two case reports outlining the potential of lung ultrasonography in parturients. In case 1, lung ultrasonography allowed early diagnosis and treatment of acute dyspnoea in a parturient admitted for suspected asthma exacerbation. Lung ultrasonography revealed a 'B-pattern' of vertical lines radiating into the lung tissue, indicating severe pulmonary oedema complicating previously undiagnosed pre-eclampsia. In case 2, a pre-eclamptic patient was managed with combined transthoracic echocardiography and lung ultrasonography. The accuracy of lung ultrasonography in detecting interstitial oedema at a pre-clinical stage allowed adequate fluid resuscitation in this patient who had a high risk of alveolar pulmonary oedema. We believe that these cases strongly support the prospective validation of lung ultrasound for management of lung disorders in pregnant women. Anaesthesia  2012 The Association of Anaesthetists of Great Britain and Ireland.
+Publication Type
+  Case Reports.  Journal Article.
+Date Created
+  20121212
+Year of Publication
+  2013
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=23088788
+
+<11>
+Unique Identifier
+  22528169
+Status
+  MEDLINE
+Authors
+  Habib AS.
+Authors Full Name
+  Habib, Ashraf S.
+Title
+  Is it time to revisit tracheal intubation for Cesarean delivery?.
+Comments
+  Comment in: Can J Anaesth. 2012 Jul;59(7):648-54; PMID: 22556005
+Source
+  Canadian Journal of Anaesthesia.  59(7):642-7, 2012 Jul.
+Publication Type
+  Editorial.  Research Support, Non-U.S. Gov't.
+Date Created
+  20120612
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22528169
+
+<12>
+Unique Identifier
+  23033826
+Status
+  MEDLINE
+Authors
+  George R.  Kar G.  Stacey R.
+Authors Full Name
+  George, R.  Kar, G.  Stacey, R.
+Title
+  Conversion from regional to general anaesthesia for caesarean section: we are meeting the standards!.
+Comments
+  Comment on: Anaesthesia. 2012 Nov;67(11):1278-9; PMID: 23033825
+Source
+  Anaesthesia.  67(11):1279, 2012 Nov.
+Publication Type
+  Comment.  Letter.
+Date Created
+  20121004
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=23033826
+
+<13>
+Unique Identifier
+  23033825
+Status
+  MEDLINE
+Authors
+  Purva M.  Russell I.  Kinsella M.
+Authors Full Name
+  Purva, M.  Russell, I.  Kinsella, M.
+Title
+  Conversion from regional to general anaesthesia for caesarean section: are we meeting the standards?.
+Comments
+  Comment in: Anaesthesia. 2012 Nov;67(11):1279; PMID: 23033826, Comment on: Anaesthesia. 2012 May;67(5):550-1; PMID: 22493968
+Source
+  Anaesthesia.  67(11):1278-9, 2012 Nov.
+Publication Type
+  Comment.  Letter.
+Date Created
+  20121004
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=23033825
+
+<14>
+Unique Identifier
+  22861661
+Status
+  MEDLINE
+Authors
+  McDonnell NJ.  Paech MJ.
+Authors Full Name
+  McDonnell, Nolan J.  Paech, Michael J.
+Title
+  General anaesthesia for emergency caesarean delivery: is the time saved worth the potential risks?.
+Comments
+  Comment on: Aust N Z J Obstet Gynaecol. 2012 Aug;52(4):316-20; PMID: 22676478
+Source
+  Australian & New Zealand Journal of Obstetrics & Gynaecology.  52(4):311-2, 2012 Aug.
+Publication Type
+  Comment.  Editorial.
+Date Created
+  20120806
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22861661
+
+<15>
+Unique Identifier
+  22676478
+Status
+  MEDLINE
+Authors
+  Beckmann M.  Calderbank S.
+Authors Full Name
+  Beckmann, Michael.  Calderbank, Susan.
+Institution
+  Department of Obstetrics and Gynaecology, Mater Health Services, South Brisbane, Queensland, Australia. michael.beckmann@mater.org.au
+Title
+  Mode of anaesthetic for category 1 caesarean sections and neonatal outcomes.
+Comments
+  Comment in: Aust N Z J Obstet Gynaecol. 2012 Aug;52(4):311-2; PMID: 22861661
+Source
+  Australian & New Zealand Journal of Obstetrics & Gynaecology.  52(4):316-20, 2012 Aug.
+Abstract
+  BACKGROUND: Birth by emergency caesarean section (CS) is common and often considered urgent (category 1). In the UK, over half of all category 1 CS are performed under general anaesthesia (GA). In this setting, little is known about the effect of the mode of anaesthesia on the neonate.
+
+  METHODS: A retrospective cohort study was performed using routinely collected de-identified data from Mater Health Services, Brisbane, Australia. The data set included 533 term babies born by category 1 CS for presumed fetal compromise between 2008 and 2011. Bivariate and multivariate analyses were undertaken.
+
+  RESULTS: The outcomes of 81 babies born by GA CS were compared with 452 by CS under regional anaesthesia (RA). Compared with a category 1 CS under RA, the decision-to-delivery interval for a GA CS was almost eight minutes faster (24.7 vs 32.6 minutes; P < 0.001). When adjusted for confounders, babies born by category 1 GA CS were significantly more likely to have an Apgar score < 7 at five minutes (aOR 6.89; 95%CI 1.79-26.55; P = 0.005), to require Neopuff or bag/mask ventilation for > 60 seconds (aOR 2.34; 95%CI 1.13-4.84; P = 0.022) and to be admitted to a neonatal intensive care nursery (aOR 2.24; 95%CI 1.16-4.31; P = 0.016).
+
+  CONCLUSIONS: General anaesthesia was associated with short-term neonatal morbidity of term babies born by category 1 CS for presumed fetal compromise, despite enabling a more rapid delivery of the baby. These data should help inform the discussion between anaesthetist and obstetrician, in balancing the risks and benefits of the mode of anaesthesia.  2012 The Authors ANZJOG  2012 The Royal Australian and New Zealand College of Obstetricians and Gynaecologists.
+Publication Type
+  Comparative Study.  Journal Article.
+Date Created
+  20120806
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22676478
+
+<17>
+Unique Identifier
+  23076903
+Status
+  MEDLINE
+Authors
+  Afolabi BB.  Lesi FE.
+Authors Full Name
+  Afolabi, Bosede B.  Lesi, Foluso E A.
+Institution
+  Department of Obstetrics and Gynaecology, University of Lagos, Lagos, Nigeria. bosedeafolabi2003@yahoo.com.
+Title
+  Regional versus general anaesthesia for caesarean section. [Review][Update of Cochrane Database Syst Rev. 2006;(4):CD004350; PMID: 17054201]
+Source
+  Cochrane Database of Systematic Reviews.  10:CD004350, 2012.
+Abstract
+  BACKGROUND: Regional anaesthesia (RA) and general anaesthesia (GA) are commonly used for caesarean section (CS) and both have advantages and disadvantages. It is important to clarify what type of anaesthesia is more efficacious.
+
+  OBJECTIVES: To compare the effects of RA with those of GA on the outcomes of CS.
+
+  SEARCH METHODS: We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 November 2011). We updated the search on 20 August 2012 and added the results to the awaiting classification section of the review.
+
+  SELECTION CRITERIA: Randomised and quasi-randomised controlled trials evaluating the use of RA and GA in women who had CS for any indication. Cluster-randomised trials and trials using a cross-over design are not included.
+
+  DATA COLLECTION AND ANALYSIS: Two review authors independently assessed trials for inclusion, assessed risk of bias and extracted data. Data were checked for accuracy.
+
+  MAIN RESULTS: Twenty-two out of 29 included studies (1793 women) contributed data to this review.The included studies did not report some our primary outcomes: maternal death, incidence of maternal postoperative wound infection, maternal postoperative other infection such as endometritis and urinary tract infection, neonatal death.Compared to women who had GA, women who had either epidural anaesthesia or spinal anaesthesia were found to have a significantly lower difference between pre and postoperative haematocrit. For epidural, the mean difference (MD) was 1.70% and 95% confidence interval (CI) 0.47 to 2.93 (one trial, 231 women) and for spinal anaesthesia, the MD was 3.10% and 95% CI 1.73 to 4.47 (one trial, 209 women). Compared with GA, women having either an epidural anaesthesia or spinal anaesthesia had a lower estimated maternal blood loss (epidural versus GA: standardised mean difference (SMD) -0.32 mL; 95% CI -0.56 to -0.07; two trials, 256 women; spinal versus GA anaesthesia: SMD -0.59 mL; 95% CI -0.83 to 0.35; two trials, 279 women). There was evidence of a significant difference in terms of satisfaction with anaesthetic technique - compared with the epidural or spinal group, more women in the GA group stated they would use the same technique again if they needed CS for a subsequent pregnancy (epidural versus GA: risk ratio (RR) 0.80; 95% CI 0.65 to 0.98; one trial, 223 women; spinal versus GA anaesthesia: RR 0.80; 95% CI 0.65 to 0.99; one trial, 221 women).No significant difference was seen in terms of neonatal Apgar scores of six or less and of four or less at five minutes and the need for neonatal resuscitation with oxygen.
+
+  AUTHORS' CONCLUSIONS: There is no evidence from this review to show that RA is superior to GA in terms of major maternal or neonatal outcomes. Further research to evaluate neonatal morbidity and maternal outcomes, such as satisfaction with technique, will be useful.
+Publication Type
+  Journal Article.  Meta-Analysis.  Review.
+Date Created
+  20121018
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=23076903
+
+<23>
+Unique Identifier
+  22610378
+Status
+  MEDLINE
+Authors
+  Sumikura H.
+Authors Full Name
+  Sumikura, Hiroyuki.
+Title
+  Keep our guard up against general anesthesia for cesarean section!.
+Source
+  Journal of Anesthesia.  26(3):324-5, 2012 Jun.
+Publication Type
+  Editorial.
+Date Created
+  20120614
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22610378
+
+<24>
+Unique Identifier
+  22354671
+Status
+  MEDLINE
+Authors
+  Eslamian L.  Jalili Z.  Jamal A.  Marsoosi V.  Movafegh A.
+Authors Full Name
+  Eslamian, Laleh.  Jalili, Zorvan.  Jamal, Ashraf.  Marsoosi, Vajiheh.  Movafegh, Ali.
+Institution
+  Department of Obstetrics and Gynecology, Tehran University of Medical Sciences, Tehran, Iran.
+Title
+  Transversus abdominis plane block reduces postoperative pain intensity and analgesic consumption in elective cesarean delivery under general anesthesia.
+Source
+  Journal of Anesthesia.  26(3):334-8, 2012 Jun.
+Abstract
+  PURPOSE: It is reported that following abdominal surgery, transversus abdominis plane (TAP) block can reduce postoperative pain. The primary outcome of this study was the evaluation of the efficacy of TAP block on pain intensity following cesarean delivery with Pfannenstiel incision.
+
+  METHODS: Fifty pregnant women were randomized blindly to receive either a TAP block with 15ml 0.25% bupivacaine in both sides (group T, n=25) or no blockade (group C, n=25) at the end of the surgery, which was performed with a Pfannenstiel incision under general anesthesia. The pain intensity in the patients was assessed by a blinded investigator at the time of discharge from recovery and at 6, 12, and 24h postoperatively, with a visual analogue scale (VAS) for pain.
+
+  RESULTS: The women in the TAP block group had significantly lower VAS pain scores at rest and during coughing and consumed significantly less tramadol than the women in group C [50mg (0-150) vs. 250mg (0-400), P=0.001]. There was a significantly longer time to the first request for analgesic in the TAP block group [210min (0-300) vs. 30min (10-180) in group C, P=0.0001].
+
+  CONCLUSION: Two-sided TAP block with 0.25% bupivacaine in parturients who undergo cesarean section with a Pfannenstiel incision under general anesthesia can decrease postoperative pain and analgesic consumption. The time to the first analgesic rescue was longer in the parturients who received the TAP block.
+Publication Type
+  Journal Article.  Randomized Controlled Trial.
+Date Created
+  20120614
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22354671
+
+<31>
+Unique Identifier
+  22159879
+Status
+  MEDLINE
+Authors
+  Onishi E.  Kojima A.  Saishu T.  Kurosawa S.
+Authors Full Name
+  Onishi, Eiko.  Kojima, Akiko.  Saishu, Toshio.  Kurosawa, Shin.
+Institution
+  Department of Anesthesiology, South Miyagi Medical Center, Ohgawara, Miyagi, Japan.
+Title
+  Remifentanil use for cesarean section in a patient with intracranial re-ruptured arteriovenous malformation.
+Source
+  Journal of Anesthesia.  26(2):275-9, 2012 Apr.
+Abstract
+  We describe the successful administration of remifentanil as part of the anesthetic technique used for cesarean section performed under general anesthesia in a 24-year-old woman with intracranial re-hemorrhage caused by re-ruptured arteriovenous malformation. A low dose of remifentanil was useful to obtund the hypertensive response during induction and maintenance of anesthesia without neonatal respiratory depression.
+Publication Type
+  Case Reports.  Journal Article.
+Date Created
+  20120424
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22159879
+
+<32>
+Unique Identifier
+  22493968
+Status
+  MEDLINE
+Authors
+  Pandey R.  Gauthama P.  Hart E.
+Authors Full Name
+  Pandey, R.  Gauthama, P.  Hart, E.
+Title
+  Conversion from regional to general anaesthesia for caesarean section: are we meeting the standards?.
+Source
+  Anaesthesia.  67(5):550-1, 2012 May.
+Publication Type
+  Letter.
+Date Created
+  20120412
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22493968
+
+<33>
+Unique Identifier
+  22395824
+Status
+  MEDLINE
+Authors
+  Sultan P.  Hilton G.  Butwick A.  Carvalho B.
+Authors Full Name
+  Sultan, Pervez.  Hilton, Gill.  Butwick, Alexander.  Carvalho, Brendan.
+Institution
+  Department of Anaesthesia, University College London Hospital, 235 Euston Road, London, UK. p.sultan@doctors.org.uk
+Title
+  Continuous spinal anesthesia for Cesarean hysterectomy and massive hemorrhage in a parturient with placenta increta.
+Source
+  Canadian Journal of Anaesthesia.  59(5):473-7, 2012 May.
+Abstract
+  PURPOSE: We present anesthetic management using a continuous spinal anesthesia (CSA) technique in a patient with placenta increta who underwent elective Cesarean hysterectomy with massive postpartum hemorrhage.
+
+  CLINICAL FEATURES: A 34-yr-old parturient (G3P2) was scheduled for Cesarean delivery and possible hysterectomy at 35(+3) weeks due to suspected placenta accreta. Her body mass index was 21kg.m(-2) and she had a reassuring airway. Inadvertent dural puncture occurred during combined spinal-epidural (CSE) placement, and a decision was made to thread the epidural catheter and utilize a CSA technique. Following delivery of a healthy infant, morbid adherence of the placenta to the myometrium was confirmed, and a supracervical hysterectomy was performed. Eight litres of blood loss occurred postpartum requiring resuscitation with crystalloid 3,800mL, colloid 1,500mL, red blood cells 16 units, fresh frozen plasma 16 units, platelets 4 units, and cryoprecipitate 1 unit. The patient developed pulmonary edema requiring conversion to general anesthesia. The patient's cardiovascular status was stable throughout surgery, and her lungs were mechanically ventilated for 18 hr postoperatively in the intensive care unit. The intrathecal catheter was removed 24 hr after placement. She developed no adverse neurological sequelae and reported no postdural puncture headache. The pathology report confirmed placenta increta.
+
+  CONCLUSION: A CSA technique may be a viable option in the event of inadvertent dural puncture during planned CSE or epidural placement in patients with a reassuring airway undergoing Cesarean delivery. Although a catheter-based neuraxial technique is appropriate for Cesarean hysterectomy for abnormal placentation, conversion to general anesthesia may be required in the event of massive perioperative hemorrhage and fluid resuscitation.
+Publication Type
+  Case Reports.  Journal Article.  Research Support, Non-U.S. Gov't.
+Date Created
+  20120410
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22395824
+
+<37>
+Unique Identifier
+  22219238
+Status
+  MEDLINE
+Authors
+  Rollins M.  Lucero J.
+Authors Full Name
+  Rollins, Mark.  Lucero, Jennifer.
+Institution
+  Department of Anesthesia and Perioperative Care, San Francisco, CA 94143-0464, USA. rollinsm@anesthesia.ucsf.edu
+Title
+  Overview of anesthetic considerations for Cesarean delivery. [Review]
+Source
+  British Medical Bulletin.  101:105-25, 2012.
+Abstract
+  INTRODUCTION: Physiologic changes of pregnancy uniquely influence anesthesia for Cesarean delivery. Included is a review of current obstetrical anesthesia considerations for Cesarean delivery and recent changes improving maternal care and outcome.
+
+  SOURCES OF DATA: A literature review was conducted using Pubmed and the Cochrane database. AREAS OF AGREEMENT AND CONTROVERSY: Increased use of neuraxial techniques instead of general anesthesia for Cesarean delivery has improved maternal safety. Recent changes in the prevention of gastric aspiration, hypotension from neuraxial techniques, venous thrombosis and a team approach have improved maternal care. Elective Cesarean deliveries and management of urgent deliveries are areas of discussion.
+
+  AREAS TIMELY FOR DEVELOPING RESEARCH: Obstetric anesthesia advances have improved maternal outcomes. Current areas of needed obstetric anesthesia research include improved obese patient care, the impact of anticoagulation on neuraxial techniques in pregnancy, long-term neurocognitive effects of neonatal exposure to anesthesia and postoperative pain management.
+Publication Type
+  Journal Article.  Review.
+Date Created
+  20120307
+Year of Publication
+  2012
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=22219238
+
+<43>
+Unique Identifier
+  21939956
+Status
+  MEDLINE
+Authors
+  Chang CC.  Wang IT.  Chen YH.  Lin HC.
+Authors Full Name
+  Chang, Chuen-Chau.  Wang, I-Te.  Chen, Yi-Hua.  Lin, Herng-Ching.
+Institution
+  Department of Anesthesiology, Taipei Medical University, Taipei, Taiwan.
+Title
+  Anesthetic management as a risk factor for postpartum hemorrhage after cesarean deliveries.
+Source
+  American Journal of Obstetrics & Gynecology.  205(5):462.e1-7, 2011 Nov.
+Abstract
+  OBJECTIVE: This population-based study aimed to compare the risk of postpartum hemorrhage (PPH) for patients who underwent cesarean section delivery (CS) with general vs spinal/epidural anesthesia.
+
+  STUDY DESIGN: We identified 67,328 women who had live singleton births by CS by linking the Taiwan National Health Insurance Research Dataset and the national birth certificate registry. Multivariate logistic regression was carried out to explore the relationship between anesthetic management type and PPH.
+
+  RESULTS: Women who received general anesthesia had a higher rate of PPH than women who received epidural anesthesia (5.1% vs 0.4%). The odds of PPH in women who had CS with general anesthesia were 8.15 times higher (95% confidence interval, 6.43-10.33) than for those who had CS with epidural anesthesia, after adjustment was made for the maternal and fetal characteristics.
+
+  CONCLUSION: The odds that women will experience cesarean PPH with general anesthesia are approximately 8.15 times higher than for women who undergo CS with epidural anesthesia. Copyright  2011 Mosby, Inc. All rights reserved.
+Publication Type
+  Journal Article.  Research Support, Non-U.S. Gov't.
+Date Created
+  20111031
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21939956
+
+<45>
+Unique Identifier
+  21907563
+Status
+  MEDLINE
+Authors
+  Soltanifar S.  Tunstill S.  Bhardwaj M.  Russell R.
+Authors Full Name
+  Soltanifar, S.  Tunstill, S.  Bhardwaj, M.  Russell, R.
+Title
+  The incidence of postoperative morbidity following general anaesthesia for caesarean section.
+Source
+  International Journal of Obstetric Anesthesia.  20(4):365, 2011 Oct.
+Publication Type
+  Letter.
+Date Created
+  20111019
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21907563
+
+<47>
+Unique Identifier
+  21857016
+Status
+  MEDLINE
+Authors
+  Tsai PS.  Hsu CS.  Fan YC.  Huang CJ.
+Authors Full Name
+  Tsai, P-S.  Hsu, C-S.  Fan, Y-C.  Huang, C-J.
+Institution
+  Graduate Institute of Nursing, College of Nursing, Taipei Medical University, Taipei 110, Taiwan.
+Title
+  General anaesthesia is associated with increased risk of surgical site infection after Caesarean delivery compared with neuraxial anaesthesia: a population-based study.
+Source
+  British Journal of Anaesthesia.  107(5):757-61, 2011 Nov.
+Other ID
+  Source: NLM. PMC3243922
+Abstract
+  BACKGROUND: This study compared the odds ratio (OR) of surgical site infection (SSI) within 30 days after operation with general anaesthesia (GA) or neuraxial anaesthesia (NA) in Taiwanese women undergoing Caesarean delivery (CD).
+
+  METHODS: An epidemiologic design was used. The study population was based on the records of all deliveries in hospitals or obstetric clinics between January 2002 and December 2006 in Taiwan. Anonymized claim data from the Taiwan National Health Insurance Research Database (NHIRD) were analysed. Women who received CD were identified from the NHIRD by Diagnosis-Related Group codes. The mode of anaesthesia was defined by order codes. Multivariate logistic regression was used to estimate the OR and associated 95% confidence interval (CI) of post-CD SSIs for GA when compared with NA. The outcome was whether a woman had been diagnosed as having an SSI during the hospitalization or was re-hospitalized within 30 days after CD for the treatment of SSIs using five or 81 International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) codes.
+
+  RESULTS: Among the 303 834 Taiwanese women who underwent CD during the 5 yr observation period, the 30 day post-CD SSI rate was 0.3% or 0.9% based on five or 81 ICD-9-CM codes. The multivariate-adjusted OR of having post-CD SSIs in the GA group was 3.73 (95% CI, 3.07-4.53) compared with the NA group (P<0.001) using five ICD-9-CM codes for the definition of SSI.
+
+  CONCLUSIONS: GA for CD was associated with a higher risk of SSI when compared with neuraxial anaesthesia.
+Publication Type
+  Journal Article.  Research Support, N.I.H., Extramural.  Research Support, Non-U.S. Gov't.
+Date Created
+  20111014
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21857016
+
+<49>
+Unique Identifier
+  21760516
+Status
+  MEDLINE
+Authors
+  Ajmal M.
+Authors Full Name
+  Ajmal, Muhammad.
+Title
+  General anaesthesia for caesarean sections: are anaesthetists dealing with exaggerated fear?.
+Source
+  European Journal of Anaesthesiology.  28(11):815-6, 2011 Nov.
+Publication Type
+  Letter.
+Date Created
+  20111006
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21760516
+
+<50>
+Unique Identifier
+  21934444
+Status
+  MEDLINE
+Authors
+  Maisonneuve E.  Audibert F.  Guilbaud L.  Lathelize J.  Jousse M.  Pierre F.  Fraser W.  Carbonne B.
+Authors Full Name
+  Maisonneuve, Emeline.  Audibert, Francois.  Guilbaud, Lucie.  Lathelize, Julie.  Jousse, Marielle.  Pierre, Fabrice.  Fraser, William.  Carbonne, Bruno.
+Institution
+  Department of Obstetrics and Gynecology, Sainte-Justine Hospital, Montreal, Quebec, Canada. emelinem@yahoo.com
+Title
+  Risk factors for severe neonatal acidosis.
+Source
+  Obstetrics & Gynecology.  118(4):818-23, 2011 Oct.
+Abstract
+  OBJECTIVE: Neonatal asphyxia may have severe consequences in term newborns. Our purpose was to identify possible risk factors of severe acidosis during pregnancy and labor.
+
+  METHODS: In a case-control study from January 2003 to December 2008 in three university perinatal centers (two French and one Canadian hospitals), we analyzed 226 women with term pregnancies complicated by severe neonatal acidosis (umbilical artery pH less than 7.00). Cases were individually matched with controls with a normal acid-base status (pH 7.15 or greater) paired by parity. Groups were compared for differences in maternal, obstetric, and fetal characteristics. Univariable and logistic conditional regression were used to identify possible risk factors.
+
+  RESULTS: Among 46,722 births after 22 weeks, 6,572 preterm births and 829 stillbirths or terminations of pregnancy were excluded. From the 39,321 live term births, 5.30% of pH values were unavailable. Severe acidosis complicated 0.63% of 37,235 term structurally normal pregnancies. By using multivariate conditional regression, maternal age 35 years or older (35.0% compared with 15.5%; odds ratio [OR] 5.58, 95% confidence interval [CI] 2.51-12.40), prior neonatal death (3.5% compared with 0%), prior cesarean delivery (24.7% compared with 6.6%; OR 4.08, 95% CI 1.71-9.72) even after excluding cases of uterine rupture, general anesthesia (8.4 compared with 0.9%; OR 8.04, 95% CI 1.26-50.60), thick meconium (6.4% compared with 2.8%; OR 5.81, 95% CI 1.72-19.66), uterine rupture (4.4% compared with 0%), and abnormal fetal heart rate (66.1% compared with 19.8%; OR 8.77, 95% CI 3.72-20.78) were independent risk factors of severe neonatal acidosis.
+
+  CONCLUSION: Prior cesarean delivery, maternal age 35 years or older, prior neonatal death, general anesthesia, thick meconium, uterine rupture, and abnormal fetal heart rate are independent risk factors of severe neonatal acidosis.
+
+  LEVEL OF EVIDENCE: II.
+Publication Type
+  Journal Article.
+Date Created
+  20110921
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21934444
+
+<51>
+Unique Identifier
+  21688054
+Status
+  MEDLINE
+Authors
+  Fanning N.  Balki M.  Sermer M.  Colman J.  Carvalho JC.
+Authors Full Name
+  Fanning, Niall.  Balki, Mrinalini.  Sermer, Mathew.  Colman, Jack.  Carvalho, Jose C A.
+Institution
+  Department of Anesthesia and Pain Management, Mount Sinai Hospital, University of Toronto, 600 University Avenue, Room 781, Toronto, ON M5G 1X5, Canada. nfanning@mtsinai.on.ca
+Title
+  Noninvasive cardiac output monitoring during general anesthesia for Cesarean delivery in a patient with severe aortic stenosis.
+Source
+  Canadian Journal of Anaesthesia.  58(9):837-41, 2011 Sep.
+Abstract
+  PURPOSE: The anesthetic management of women with severe aortic stenosis (AS) undergoing Cesarean delivery (CD) remains controversial. We used a relatively new bioreactance technology to highlight the continuous hemodynamic changes related to anesthesia, delivery, and recovery in a parturient with severe AS.
+
+  CLINICAL FEATURES: A 29-yr-old woman, New York Heart Association Class II, with a congenital bicuspid aortic valve and AS presented for CD at 36.5weeks of gestation. The estimated aortic valve area on echocardiogram was 0.75cm(2), and the maximal transvalvular gradient was 64mmHg. Cesarean delivery was performed under general anesthesia with an epidural catheter placed prior to induction for postoperative analgesia. Noninvasive cardiac output (CO) monitoring based on bioreactance was used throughout the procedure. Cardiac output increased from 7-12L.min(-1) following delivery primarily due to an increase in stroke volume. Both stroke volume variation and total peripheral resistance decreased, while the patient's heart rate did not change. Increased stroke volume, likely associated with decreased afterload and increased preload, contributed to an increase in CO from 7-12L.min(-1).
+
+  CONCLUSION: Continuous CO data obtained from bioreactance-based monitoring suggests that pregnant women with severe AS may experience an increase in CO under certain circumstances. This result is in keeping with data obtained from non-pregnant individuals and is an interesting finding that warrants further study. Noninvasive CO monitoring may improve our understanding of the peripartum changes in women with heart disease.
+Publication Type
+  Case Reports.  Journal Article.
+Date Created
+  20110810
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21688054
+
+<52>
+Unique Identifier
+  21823396
+Status
+  MEDLINE
+Authors
+  Dyer RA.  James MF.  Butwick AJ.  Carvalho B.
+Authors Full Name
+  Dyer, R A.  James, M F.  Butwick, A J.  Carvalho, B.
+Title
+  The Proseal laryngeal mask airway and elective caesarean section.
+Comments
+  Comment on: Anaesth Intensive Care. 2010 Nov;38(6):1023-8; PMID: 21226432
+Source
+  Anaesthesia & Intensive Care.  39(4):760-1; author reply 761-2, 2011 Jul.
+Publication Type
+  Comment.  Letter.
+Date Created
+  20110809
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21823396
+
+<53>
+Unique Identifier
+  21823371
+Status
+  MEDLINE
+Authors
+  Mace HS.  Paech MJ.  McDonnell NJ.
+Authors Full Name
+  Mace, H S.  Paech, M J.  McDonnell, N J.
+Institution
+  Department of Anaesthesia and Pain Medicine, King Edward Memorial Hospital for Women, Perth, Western Australia, Australia.
+Title
+  Obesity and obstetric anaesthesia. [Review]
+Source
+  Anaesthesia & Intensive Care.  39(4):559-70, 2011 Jul.
+Abstract
+  Obesity is increasing in the population as a whole, and especially in the obstetric population, among whom pregnancy-induced physiological changes impact on those already present due to obesity. In particular, changes in the cardiovascular and respiratory systems during pregnancy further alter the physiological effects and comorbidities of obesity. Obese pregnant women are at increased risk of diabetes, hypertensive disorders of pregnancy, ischaemic heart disease, congenital malformations, operative delivery postpartum infection and thromboembolism. Regional analgesia and anaesthesia is usually preferred but may be challenging. Obese pregnant women appear to have increased morbidity and mortality associated with caesarean delivery and general anaesthesia for caesarean delivery in particular, and more anaesthesia-related complications. This article summarises the physiological and pharmacological implications of obesity and pregnancy and describes the issues surrounding the management of these women for labour and delivery.
+Publication Type
+  Journal Article.  Review.
+Date Created
+  20110809
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21823371
+
+<62>
+Unique Identifier
+  21310603
+Status
+  MEDLINE
+Authors
+  Mhyre JM.
+Authors Full Name
+  Mhyre, J M.
+Institution
+  Department of Anesthesia, Division of Obstetric Anesthesia, Women's Hospital, University of Michigan Health System, Ann Arbor, MI 48109-5278, USA. jmmhyre@umich.edu
+Title
+  What's new in obstetric anesthesia?. [Review]
+Source
+  International Journal of Obstetric Anesthesia.  20(2):149-59, 2011 Apr.
+Abstract
+  The current article covers some of the major themes that emerged in 2009 in the fields of obstetric anesthesiology, obstetrics, and perinatology, with a special emphasis on the implications for the obstetric anesthesiologist. Copyright  2010 Elsevier Ltd. All rights reserved.
+Publication Type
+  Journal Article.  Review.
+Date Created
+  20110404
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21310603
+
+<63>
+Unique Identifier
+  21375109
+Status
+  MEDLINE
+Authors
+  Berger M.  Corso RM.  Piraccini E.  Agnoletti V.  Valtancoli E.  Gambale G.
+Authors Full Name
+  Berger, M.  Corso, R M.  Piraccini, E.  Agnoletti, V.  Valtancoli, E.  Gambale, G.
+Title
+  The i-gel in failed obstetric tracheal intubation.
+Source
+  Anaesthesia & Intensive Care.  39(1):136-7, 2011 Jan.
+Publication Type
+  Case Reports.  Letter.
+Date Created
+  20110307
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21375109
+
+<67>
+Unique Identifier
+  21112762
+Status
+  MEDLINE
+Authors
+  Erden V.  Erkalp K.  Yangin Z.  Delatioglu H.  Kiroglu S.  Ortakuz S.  Ozdemir B.
+Authors Full Name
+  Erden, V.  Erkalp, K.  Yangin, Z.  Delatioglu, H.  Kiroglu, S.  Ortakuz, S.  Ozdemir, B.
+Institution
+  Department of Anesthesia and Reanimation, Vakif Gureba Educational Hospital, Istanbul, Turkey.
+Title
+  The effect of labor on sevoflurane requirements during cesarean delivery.
+Source
+  International Journal of Obstetric Anesthesia.  20(1):17-21, 2011 Jan.
+Abstract
+  BACKGROUND: Labor results in the release of sensitizing substances such as progesterone, prostaglandins, cytokines and cortisol, some of which have been observed to participate in sleep regulation. We hypothesized that these substances could affect sleep regulation and therefore the amount of volatile agent required to provide general anesthesia for cesarean delivery.
+
+  METHODS: A total of 50 patients were enrolled, of whom 25 had uterine activity less than 30 Montevideo units (Prelabor group) and 25 had uterine activity greater than 80 Montevideo units (Labor group). Anesthesia was maintained with 50% oxygen in nitrous oxide with sevoflurane. Sevoflurane concentration was adjusted to sustain a constant Bispectral Index (BIS) value of 40-55. Prolactin, progesterone and cortisol levels were evaluated immediately before cesarean delivery.
+
+  RESULTS: End-tidal concentrations of sevoflurane in the Prelabor group were higher than in the Labor group with similar Bispectral Index values. No significant differences were found in prolactin, progesterone and cortisol levels between the two groups.
+
+  CONCLUSION: Anesthetic requirements for sevoflurane, as measured by Bispectral Index, decrease in laboring versus non-laboring parturients undergoing cesarean delivery. Prolactin, progesterone and cortisol do not appear to be responsible for this observation. Copyright A 2010 Elsevier Ltd. All rights reserved.
+Publication Type
+  Journal Article.
+Date Created
+  20110112
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21112762
+
+<71>
+Unique Identifier
+  20947593
+Status
+  MEDLINE
+Authors
+  Park BY.  Jeong CW.  Jang EA.  Kim SJ.  Jeong ST.  Shin MH.  Lee J.  Yoo KY.
+Authors Full Name
+  Park, B Y.  Jeong, C W.  Jang, E A.  Kim, S J.  Jeong, S T.  Shin, M H.  Lee, J.  Yoo, K Y.
+Institution
+  Department of Anaesthesiology and Pain Medicine, Chonnam National University Medical School, Gwangju, Republic of Korea.
+Title
+  Dose-related attenuation of cardiovascular responses to tracheal intubation by intravenous remifentanil bolus in severe pre-eclamptic patients undergoing Caesarean delivery.
+Comments
+  Comment in: Br J Anaesth. 2011 Oct;107(4):639-40; author reply 640; PMID: 21903648
+Source
+  British Journal of Anaesthesia.  106(1):82-7, 2011 Jan.
+Abstract
+  BACKGROUND: The optimal dose of remifentanil to attenuate the cardiovascular responses to tracheal intubation in pre-eclamptic patients undergoing Caesarean delivery under general anaesthesia has not been established. We compared the effects of two low doses of remifentanil on the cardiovascular responses to tracheal intubation and neonatal outcomes.
+
+  METHODS: Forty-eight women with severe pre-eclampsia were randomly assigned to receive either remifentanil 0.5 g kg-1 (R0.5 group, n=24) or 1 g kg-1 (R1.0 group, n=24) over 30 s before induction of anaesthesia using thiopental 5 mg kg-1 and succinylcholine 1.5 mg kg-1. Systolic arterial pressure (SAP), heart rate (HR), and plasma catecholamine concentrations were measured. Neonatal effects were assessed using Apgar scores and umbilical cord blood gas analysis.
+
+  RESULTS: SAP was decreased by induction of anaesthesia and increased by tracheal intubation in both groups. The peak SAP after intubation was greater in the R0.5 group than in the R1.0 group, whereas it did not exceed baseline values in either group. HR increased significantly above baseline in both groups with no significant differences between the groups. Three subjects in the R1.0 group received ephedrine due to hypotension (SAP < 90 mm Hg). Norepinephrine concentrations remained unaltered after intubation and increased significantly at delivery with no significant differences between the groups. Neonatal Apgar scores and umbilical arterial and venous pH and blood gas values were comparable between the groups.
+
+  CONCLUSIONS: Both doses of remifentanil effectively attenuated haemodynamic responses to tracheal intubation with transient neonatal respiratory depression in pre-eclamptic patients undergoing Caesarean delivery under general anaesthesia. The 1.0 g kg-1 dose was associated with hypotension in three of 24 subjects.
+Publication Type
+  Journal Article.  Randomized Controlled Trial.  Research Support, Non-U.S. Gov't.
+Date Created
+  20101214
+Year of Publication
+  2011
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20947593
+
+<74>
+Unique Identifier
+  21226432
+Status
+  MEDLINE
+Authors
+  Halaseh BK.  Sukkar ZF.  Hassan LH.  Sia AT.  Bushnaq WA.  Adarbeh H.
+Authors Full Name
+  Halaseh, B K.  Sukkar, Z F.  Hassan, L Haj.  Sia, A T H.  Bushnaq, W A.  Adarbeh, H.
+Institution
+  Department of Anesthesia, Farah Hospital, Amman, Jordan.
+Title
+  The use of ProSeal laryngeal mask airway in caesarean section--experience in 3000 cases.
+Comments
+  Comment in: Anaesth Intensive Care. 2011 Jul;39(4):760-1; author reply 761-2; PMID: 21823396, Comment in: Anaesth Intensive Care. 2010 Nov;38(6):989-91; PMID: 21226425
+Source
+  Anaesthesia & Intensive Care.  38(6):1023-8, 2010 Nov.
+Abstract
+  Rapid sequence induction is currently the recommended technique in general anaesthesia for caesarean section. However, the usefulness of the ProSeal laryngeal mask airway as a rescue airway in the event of difficult or failed intubation has been recognised in numerous case reports. In this study, we report the experience of the use of the ProSeal laryngeal mask in 3000 elective caesarean sections in a single centre, using a method of insertion that allows a rapid establishment of a patent airway together with gastric drainage.
+Publication Type
+  Journal Article.
+Date Created
+  20110113
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21226432
+
+<75>
+Unique Identifier
+  21226425
+Status
+  MEDLINE
+Authors
+  Paech MJ.
+Authors Full Name
+  Paech, M J.
+Title
+  "Pregnant women having caesarean delivery under general anaesthesia should have a rapid sequence induction with cricoid pressure and be intubated". Can this 'holy cow' be sent packing?.
+Comments
+  Comment on: Anaesth Intensive Care. 2010 Nov;38(6):1023-8; PMID: 21226432
+Source
+  Anaesthesia & Intensive Care.  38(6):989-91, 2010 Nov.
+Publication Type
+  Comment.  Editorial.
+Date Created
+  20110113
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21226425
+
+<77>
+Unique Identifier
+  21126120
+Status
+  MEDLINE
+Authors
+  Fassoulaki A.  Staikou C.  Melemeni A.  Kottis G.  Petropoulos G.
+Authors Full Name
+  Fassoulaki, A.  Staikou, C.  Melemeni, A.  Kottis, G.  Petropoulos, G.
+Institution
+  Department of Anaesthesiology, Aretaieio Hospital, University of Athens, Greece. fassoula@aretaieio.uoa.gr
+Title
+  Anaesthesia preference, neuraxial vs general, and outcome after caesarean section.
+Source
+  Journal of Obstetrics & Gynaecology.  30(8):818-21, 2010.
+Abstract
+  We investigated parturients' preference for neuraxial vs general anaesthesia, while they have experienced both techniques in the past. A total of 102 parturients who underwent elective caesarean section under general or neuraxial anaesthesia at different times completed a questionnaire comparing the two techniques. According to our results, 98% vs 51% (p < 0.001) of the women saw the baby and 51% vs 29% (p = 0.003) ambulated in the neuraxial and general anaesthesia groups, respectively, within the first 24 h postoperatively. Neuraxial anaesthesia was associated with less pain assessed by the Verbal Analogue Scale (VAS) (54 +/- 21 vs 72 +/- 20 p < 0.001), fewer days of hospital stay (4 +/- 0.5 vs 5 +/- 1.5, p = 0.001) and higher satisfaction scores (77 +/- 18 vs 52 +/- 24, p = 0.001) vs general anaesthesia. Finally, 80% of the women would choose neuraxial anaesthesia for a future caesarean section.
+Publication Type
+  Comparative Study.  Journal Article.
+Date Created
+  20101203
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=21126120
+
+<78>
+Unique Identifier
+  20926478
+Status
+  MEDLINE
+Authors
+  Huang CJ.  Fan YC.  Tsai PS.
+Authors Full Name
+  Huang, C-J.  Fan, Y-C.  Tsai, P-S.
+Institution
+  Department of Anaesthesiology, Buddhist Tzu Chi General Hospital, Taipei Branch, 289, Jianguo Rd, Sindian City, Taipei County 231, Taipei, Taiwan.
+Title
+  Differential impacts of modes of anaesthesia on the risk of stroke among preeclamptic women who undergo Caesarean delivery: a population-based study.
+Source
+  British Journal of Anaesthesia.  105(6):818-26, 2010 Dec.
+Abstract
+  BACKGROUND: This study compared the stroke-free survival rates and hazard ratios (HRs) for stroke between preeclamptic women who received general anaesthesia and those who received neuraxial anaesthesia for Caesarean section (CS).
+
+  METHODS: This study used 2002-7 data from the Taiwan National Health Insurance Research Database. The stroke-free survival rate was estimated by the Kaplan-Meier method. The log-rank test was used to examine the difference in the stroke-free survival rates between general, spinal, and epidural anaesthesia. The Cox proportional hazard regression was used to estimate the HR for general anaesthesia.
+
+  RESULTS: A total of 303 862 women underwent CS of which 8567 had preeclampsia (75 stroke cases) and 295 295 did not (303 stroke cases). The stroke-free survival rate was significantly lower in the preeclamptic women who received general anaesthesia when compared with those who received epidural (P=0.008) or spinal anaesthesia (P<0.001) within the 6 yr period after the index delivery. There was no statistically significant difference between spinal and epidural anaesthesia in terms of stroke rate (P=0.143). The unadjusted HR of stroke for general anaesthesia was 2.81 [95% confidence interval (CI), 1.69-4.64; P<0.001]. After adjusting for potential confounders, the adjusted HR for general anaesthesia was 2.38 (95% CI, 1.33-4.28; P=0.004) compared with neuraxial anaesthesia over a 1-6 yr follow-up period.
+
+  CONCLUSIONS: In this study, general anaesthesia for CS delivery was associated with increased risk of stroke when compared with neuraxial anaesthesia in preeclamptic women.
+Publication Type
+  Journal Article.  Multicenter Study.  Research Support, Non-U.S. Gov't.
+Date Created
+  20101118
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20926478
+
+<80>
+Unique Identifier
+  20946398
+Status
+  MEDLINE
+Authors
+  Knox F.
+Authors Full Name
+  Knox, F.
+Title
+  Rapid sequence spinal anaesthesia: are we being serious?.
+Comments
+  Comment on: Anaesthesia. 2010 Jul;65(7):664-9; PMID: 20642523
+Source
+  Anaesthesia.  65(11):1144; author reply 1144-5, 2010 Nov.
+Publication Type
+  Comment.  Letter.
+Date Created
+  20101015
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20946398
+
+<81>
+Unique Identifier
+  20864892
+Status
+  MEDLINE
+Authors
+  Basaranoglu G.  Columb M.  Lyons G.
+Authors Full Name
+  Basaranoglu, Gokcen.  Columb, Malachy.  Lyons, Gordon.
+Institution
+  Department of Anaesthesia, Vakif Gureba Education and Teaching Hospital, Istanbul, Turkey. gbasaranoglu@hotmail.com
+Title
+  Failure to predict difficult tracheal intubation for emergency caesarean section.
+Source
+  European Journal of Anaesthesiology.  27(11):947-9, 2010 Nov.
+Abstract
+  BACKGROUND AND AIM: Difficult tracheal intubation following induction of general anaesthesia for caesarean section is a cause of morbidity and mortality. Our aim was to evaluate five bedside predictors that might identify women with potential intubation difficulty immediately prior to emergency caesarean section.
+
+  PATIENTS AND METHODS: Women requiring emergency caesarean section with general anaesthesia and tracheal intubation who had been assessed by the same experienced anaesthesiologist preoperatively were included in this study. Mallampati score, sternomental distance, thyromental distance, interincisor gap and atlantooccipital extension were all measured. The same anaesthesiologist performed laryngoscopy and graded the laryngeal view according to Cormack and Lehane. Exact logistic regression was used to identify significant independent predictors for difficult intubation (Cormack and Lehane grades >= 3) with two-sided P value less than 0.05 considered as significant.
+
+  RESULTS: In 3 years, 239 women were recruited. Cormack and Lehane grades of 2 or less (easy) were found in 225 and grade of at least 3 (difficult) in 14 women. Patients' characteristics (age, height, weight, BMI or weight gain) were not significantly associated with difficulty of intubation. The incidence of difficult intubation was 1/17 women [95% confidence interval (CI) from 1/31 to 1/10]. A positive result from any of the five predictors combined had a sensitivity of 0.21 (95%CI 0.05-0.51), a specificity of 0.92 (95%CI 0.88-0.96), a positive predictive value of 0.15 (95%CI 0.032-0.38) and a negative predictive value of 0.95 (95%CI 0.91-0.97) for a Cormack and Lehane grade of at least 3 at laryngoscopy.
+
+  CONCLUSION: Airway assessment using these tests cannot be relied upon to predict a difficult intubation at emergency caesarean section as the low sensitivity means that 79% (95%CI 49-95) of difficult intubations will be missed.
+Publication Type
+  Journal Article.
+Date Created
+  20101008
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20864892
+
+<82>
+Unique Identifier
+  20833528
+Status
+  MEDLINE
+Authors
+  Lucas DN.
+Authors Full Name
+  Lucas, D N.
+Institution
+  Department of Anaesthesia, Northwick Park Hospital, Harrow, UK. nuala.lucas@doctors.org.uk
+Title
+  The 30 minute decision to delivery time is unrealistic in morbidly obese women. [Review]
+Comments
+  Comment in: Int J Obstet Anesth. 2010 Oct;19(4):435-7; PMID: 20833527
+Source
+  International Journal of Obstetric Anesthesia.  19(4):431-5, 2010 Oct.
+Publication Type
+  Journal Article.  Review.
+Date Created
+  20100927
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20833528
+
+<83>
+Unique Identifier
+  20833027
+Status
+  MEDLINE
+Authors
+  Wilson SH.  Fecho K.  Marshall J.  Spielman F.
+Authors Full Name
+  Wilson, S H.  Fecho, K.  Marshall, J.  Spielman, F.
+Institution
+  Department of Anesthesiology, University of North Carolina, Chapel Hill, North Carolina, USA.
+Title
+  Factors influencing cesarean delivery operative times: a prospective observational cohort study.
+Source
+  International Journal of Obstetric Anesthesia.  19(4):417-21, 2010 Oct.
+Abstract
+  BACKGROUND: This study aimed to determine the distribution of operative delivery times for uncomplicated parturients undergoing elective cesarean delivery with neuraxial anesthesia. A secondary aim was to explore patient and surgical factors associated with longer cesarean delivery times.
+
+  METHODS: A prospective observational study of 331 parturients undergoing elective cesarean delivery with neuraxial anesthesia was conducted. Factors examined included age, body mass index, ethnicity, number of previous cesarean deliveries, stretch mark and scar severity and surgical experience.
+
+  RESULTS: Operative times ranged from 13 to 108 min with a mean (SD) of 43.4 (+/-15.7) min. Only 6 (1.8%) parturients had operative times >90 min and none were converted to general anesthesia. As the number of previous cesarean deliveries increased, the mean operative time increased linearly from 39.5 (+/-13.0) min in subjects with no previous cesarean deliveries to 52.8 (+/-18.1) min in subjects with 3 or 4 previous cesarean deliveries (P<0.0005). For parturients with previous cesarean deliveries, operative times were longer for those with scar scores > or =5 than for those with scores <5 (P<0.01). Stretch mark scores were not associated with operative times. Tubal ligation prolonged the total operative time by a mean of 7 min (P<0.0005), and attending staff required a mean of 6 more min than residents or fellows (P<0.01). There was no correlation between operative times, age and body mass index and little variation with ethnicity.
+
+  CONCLUSIONS: These findings identify previous cesarean deliveries, increased scar intensity, tubal ligation and surgical experience as factors that increase operative times for cesarean delivery. The data also suggest that neuraxial anesthesia lasting 90 min should provide adequate analgesia for most uncomplicated parturients undergoing elective cesarean delivery. Copyright  2010 Elsevier Ltd. All rights reserved.
+Publication Type
+  Clinical Trial.  Journal Article.
+Date Created
+  20100927
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20833027
+
+<87>
+Unique Identifier
+  20673866
+Status
+  MEDLINE
+Authors
+  Vricella LK.  Louis JM.  Mercer BM.  Bolden N.
+Authors Full Name
+  Vricella, Laura K.  Louis, Judette M.  Mercer, Brian M.  Bolden, Norman.
+Institution
+  Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, MetroHealth Medical Center, Case Western Reserve University School of Medicine, Cleveland, OH, USA.
+Title
+  Anesthesia complications during scheduled cesarean delivery for morbidly obese women.
+Source
+  American Journal of Obstetrics & Gynecology.  203(3):276.e1-5, 2010 Sep.
+Abstract
+  OBJECTIVE: We sought to estimate the morbidity associated with regional anesthesia in morbidly obese women undergoing scheduled cesarean delivery.
+
+  STUDY DESIGN: This was a retrospective cohort study of women undergoing elective scheduled cesarean delivery from September 2004 through December 2008.
+
+  RESULTS: A total of 142 morbidly obese, 251 overweight and obese, and 185 normal-weight women met inclusion criteria. Differences between groups were identified regarding: complicated placement (5.6%, 2.8%, and 0%, respectively; P = .007), failure to establish (2%, 0%, and 0%, respectively; P = .047), and insufficient duration (4%, 0%, and 0%, respectively; P = .02) of regional anesthesia. The groups differed in the frequency of general anesthesia (6%, 0%, and 0%, respectively; P = .003), intraoperative hypotension (3%, 0%, and 0%, respectively; P = .01), and overall anesthetic complications (8.4%, 0%, and 0%, respectively; P < .0001). Prepregnancy body mass index > or = 40 kg/m(2) (receiver operating characteristic area under the curve, 0.856; positive likelihood ratio, 4.0) and delivery body mass index > or = 45 kg/m(2) (receiver operating characteristic area under the curve, 0.877; positive likelihood ratio, 4.1) were predictive of anesthetic complications.
+
+  CONCLUSION: Morbidly obese women have significant risk for anesthesia complications during cesarean delivery. Copyright 2010 Mosby, Inc. All rights reserved.
+Publication Type
+  Journal Article.
+Date Created
+  20100906
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20673866
+
+<92>
+Unique Identifier
+  20642523
+Status
+  MEDLINE
+Authors
+  Kinsella SM.  Girgirah K.  Scrutton MJ.
+Authors Full Name
+  Kinsella, S M.  Girgirah, K.  Scrutton, M J L.
+Institution
+  Consultant Anaesthetist, St Michael's Hospital, Bristol, UK. Stephen.Kinsella@uhbristol.nhs.uk
+Title
+  Rapid sequence spinal anaesthesia for category-1 urgency caesarean section: a case series.
+Comments
+  Comment in: Anaesthesia. 2010 Jul;65(7):659-60; PMID: 20642521, Comment in: Anaesthesia. 2010 Nov;65(11):1143-4; author reply 1144-5; PMID: 20946396, Comment in: Anaesthesia. 2010 Nov;65(11):1144; author reply 1144-5; PMID: 20946398, Comment in: Anaesthesia. 2010 Nov;65(11):1142-3; author reply 1144-5; PMID: 20946393, Comment in: Anaesthesia. 2011 Mar;66(3):226; PMID: 21320099
+Source
+  Anaesthesia.  65(7):664-9, 2010 Jul.
+Abstract
+  SUMMARY: General anaesthesia is the fastest method for anaesthetising a category-1 caesarean section but is associated with increased maternal morbidity and mortality. We describe the 'rapid sequence spinal' to minimise anaesthetic time. This consists of a no-touch spinal technique, consideration of omission of the spinal opioid, limiting spinal attempts, allowing the start of surgery before full establishment of the spinal block, and being prepared for conversion to general anaesthesia if there are delays or problems. We present a case series of 25 rapid sequence spinal anaesthetics for category-1 caesarean section. The mean (SD [range]) decision-delivery interval was 23 (6 [14-41]) min. After excluding cases where there was an identified delay, the median (IQR [range]) time to prepare and perform the spinal was 2 (2-3 [1-7]) min, and time to develop a 'satisfactory' block was 4 (3-5 [2-7]) min. The total time to induce spinal anaesthesia was 8 (7-8 [6-8]) min. There were three pre-operative conversions to general anaesthesia and three women had pain during surgery that did not require treatment. Our data indicate that one might expect to establish anaesthesia in 6-8 min using a rapid sequence spinal. Careful case selection is crucial. While rapid anaesthesia is important, the reduction of the decision-delivery interval also requires attention to other stages in the pre-operative process.
+Publication Type
+  Case Reports.  Journal Article.
+Date Created
+  20100720
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20642523
+
+<93>
+Unique Identifier
+  20642521
+Status
+  MEDLINE
+Authors
+  Girard T.  Schneider MC.
+Authors Full Name
+  Girard, T.  Schneider, M C.
+Title
+  Category-1 caesarean section: when time matters.
+Comments
+  Comment on: Anaesthesia. 2010 Jul;65(7):664-9; PMID: 20642523
+Source
+  Anaesthesia.  65(7):659-60, 2010 Jul.
+Publication Type
+  Comment.  Editorial.
+Date Created
+  20100720
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20642521
+
+<97>
+Unique Identifier
+  20075008
+Status
+  MEDLINE
+Authors
+  Sia AT.  Fun WL.  Tan TU.
+Authors Full Name
+  Sia, Alex T H.  Fun, Wendy L.  Tan, Terry U.
+Institution
+  Department of Anaesthesia, KK Women's and Children's Hospital, Singapore. Alex.Sia.TH@kkh.com.sg <Alex.Sia.TH@kkh.com.sg>
+Title
+  The ongoing challenges of regional and general anaesthesia in obstetrics. [Review] [82 refs]
+Source
+  Best Practice & Research in Clinical Obstetrics & Gynaecology.  24(3):303-12, 2010 Jun.
+Abstract
+  The increasing trend of caesarean section in the setting of increasing maternal age, obesity and other concomitant diseases will continue to challenge the obstetric anaesthetist in his/her task of providing regional and general anaesthesia. The challenges of providing anaesthesia for an emergency caesarean section, particularly the risks of general anaesthesia, will be debated. The need for involvement of a multidisciplinary team, good communication and challenges surrounding the provision of anaesthesia to such patients are discussed. 2009 Elsevier Ltd. All rights reserved. [References: 82]
+Publication Type
+  Journal Article.  Review.
+Date Created
+  20100623
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20075008
+
+<98>
+Unique Identifier
+  20522032
+Status
+  MEDLINE
+Authors
+  Milsom MJ.  Kessell G.
+Authors Full Name
+  Milsom, M J.  Kessell, G.
+Title
+  Difficult intubation in obstetric general anaesthesia.
+Comments
+  Comment on: Anaesthesia. 2009 Nov;64(11):1168-71; PMID: 19825049
+Source
+  Anaesthesia.  65(5):530-1; author reply 531, 2010 May.
+Publication Type
+  Comment.  Letter.
+Date Created
+  20100604
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20522032
+
+<99>
+Unique Identifier
+  20446346
+Status
+  MEDLINE
+Authors
+  Vermelis JM.  Wassen MM.  Fiddelers AA.  Nijhuis JG.  Marcus MA.
+Authors Full Name
+  Vermelis, Johanna M F W.  Wassen, Martine M L H.  Fiddelers, Audrey A A.  Nijhuis, Jan G.  Marcus, Marco A E.
+Institution
+  Department of Anaesthesiology and Pain Therapy, Maastricht University Medical Center, Maastricht, The Netherlands.
+Title
+  Prevalence and predictors of chronic pain after labor and delivery. [Review] [34 refs]
+Source
+  Current Opinion in Anaesthesiology.  23(3):295-9, 2010 Jun.
+Abstract
+  PURPOSE OF REVIEW: Labor pain is a complex phenomenon with sensory, emotional, and perceptive components and can be regarded as one of the most serious kinds of pain. Different strategies to approach acute labor pain have been developed. Chronic pain after labor and delivery has not been studied so extensively. In this review recent findings about chronic pain after labor and delivery will be discussed.
+
+  RECENT FINDINGS: Prevalence rates of chronic pain after cesarean section are between 6 and 18% and after vaginal delivery they are between 4 and 10%. Predictors for chronic pain after cesarean section and delivery are previous chronic pain, general anesthesia and higher postdelivery pain. As labor pain is rated as one of the most serious kinds of acute pain one could make a prediction about chronic pain after labor and delivery. We speculate that effective treatment of this pain with epidural analgesia could prevent the development of chronic pain.
+
+  SUMMARY: Treatment of acute pain during labor and delivery is necessary to prevent chronic pain. Future studies should focus on the long-term effects of different analgesic regimens on the development of chronic pain after labor and delivery. [References: 34]
+Publication Type
+  Journal Article.  Review.
+Date Created
+  20100505
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20446346
+
+<100>
+Unique Identifier
+  20418311
+Status
+  MEDLINE
+Authors
+  de Souza DG.  Doar LH.  Mehta SH.  Tiouririne M.
+Authors Full Name
+  de Souza, Duncan G.  Doar, Lauren H.  Mehta, Sachin H.  Tiouririne, Mohamed.
+Institution
+  Department of Anesthesiology, University of Virginia, Charlottesville, VA 22908, USA. mt9y@virginia.edu
+Title
+  Aspiration prophylaxis and rapid sequence induction for elective cesarean delivery: time to reassess old dogma?.
+Source
+  Anesthesia & Analgesia.  110(5):1503-5, 2010 May 1.
+Publication Type
+  Journal Article.
+Date Created
+  20100426
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20418311
+
+<101>
+Unique Identifier
+  20402875
+Status
+  MEDLINE
+Authors
+  Kinsella SM.  Walton B.  Sashidharan R.  Draycott T.
+Authors Full Name
+  Kinsella, S M.  Walton, B.  Sashidharan, R.  Draycott, T.
+Institution
+  St Michael's Hospital, Bristol, UK. Stephen.Kinsella@uhbristol.nhs.uk <Stephen.Kinsella@uhbristol.nhs.uk>
+Title
+  Category-1 caesarean section: a survey of anaesthetic and peri-operative management in the UK.
+Source
+  Anaesthesia.  65(4):362-8, 2010 Apr.
+Abstract
+  A national survey of anaesthetic and peri-operative management of category-1 caesarean section was sent to 245 consultant-led maternity units. There was a 70% response rate. The median (IQR [range]) general anaesthetic rate was 51% (29%-80% [6%-100%]), 12% (9%-16% [3%-93%]), 4% (2%-5% [<1%-18%]), for category-1 caesarean section, categories 1-3 (non-elective/emergency) and category-4 (elective) caesarean section, respectively. The main operating theatre for caesarean section is on the delivery suite in 151 (88%) units, and 112 (66%) units also have a second theatre in the same location. One hundred and thirty-nine (81%) use the standard urgency classification described in the NICE caesarean section guideline. However, only 72 (42%), 24 (14%), and 16 (9%) units comply with this guideline's recommended decision-delivery intervals for category-1 (< or = 30 min), category-2 (< or = 30 min) and category-3 (< or = 75 min) caesarean sections, respectively. Practice in the smaller units was similar to that in the larger units, although there was less availability of a dedicated anaesthetist, intra-uterine resuscitation guidelines and operating theatres on the delivery suite in the smaller units.
+Publication Type
+  Journal Article.  Multicenter Study.
+Date Created
+  20100420
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20402875
+
+<103>
+Unique Identifier
+  20219345
+Status
+  MEDLINE
+Authors
+  McDonnell NJ.  Muchatuta NA.  Paech MJ.
+Authors Full Name
+  McDonnell, N J.  Muchatuta, N A.  Paech, M J.
+Institution
+  Department of Anaesthesia and Pain Medicine, King Edward Memorial Hospital for Women, Perth, Western Australia, Australia. nolan.mcdonnell@health.wa.gov.au
+Title
+  Acute magnesium toxicity in an obstetric patient undergoing general anaesthesia for caesarean delivery.
+Comments
+  Comment in: Int J Obstet Anesth. 2011 Jan;20(1):92-3; PMID: 21134738
+Source
+  International Journal of Obstetric Anesthesia.  19(2):226-31, 2010 Apr.
+Abstract
+  Magnesium is commonly used in the prevention of eclampsia. Reports of acute toxicity are rare and we are not aware of detailed management algorithms. We present a case of acute magnesium toxicity presenting as ventilatory impairment and failure to rouse adequately from general anaesthesia. The patient was managed with controlled ventilation, further sedation, intravenous calcium gluconate, forced diuresis and dextrose-insulin infusion. We present a guideline for the management of life-threatening magnesium toxicity and discuss measures that may prevent future similar occurrences. Crown Copyright 2009. Published by Elsevier Ltd. All rights reserved.
+Publication Type
+  Case Reports.  Journal Article.
+Date Created
+  20100329
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20219345
+
+<105>
+Unique Identifier
+  20171872
+Status
+  MEDLINE
+Authors
+  Reynolds F.
+Authors Full Name
+  Reynolds, Felicity.
+Institution
+  St Thomas' Hospital, London, UK. felicity.reynolds@btinternet.co
+Title
+  General anesthesia is unacceptable for elective cesarean section.
+Comments
+  Comment on: Int J Obstet Anesth. 2010 Apr;19(2):209-12; PMID: 20171082
+Source
+  International Journal of Obstetric Anesthesia.  19(2):212-7, 2010 Apr.
+Publication Type
+  Comment.  Journal Article.
+Date Created
+  20100329
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20171872
+
+<106>
+Unique Identifier
+  20171082
+Status
+  MEDLINE
+Authors
+  Wong CA.
+Authors Full Name
+  Wong, C A.
+Institution
+  Department of Anesthesiology, Northwestern University Feinberg School of Medicine, Chicago, Illinois 60611, USA. c-wong2@northwestern.edu
+Title
+  General anesthesia is unacceptable for elective cesarean section.
+Comments
+  Comment in: Int J Obstet Anesth. 2010 Apr;19(2):212-7; PMID: 20171872
+Source
+  International Journal of Obstetric Anesthesia.  19(2):209-12, 2010 Apr.
+Publication Type
+  Journal Article.
+Date Created
+  20100329
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20171082
+
+<107>
+Unique Identifier
+  20185675
+Status
+  MEDLINE
+Authors
+  Sanders RD.  Avidan MS.
+Authors Full Name
+  Sanders, Robert D.  Avidan, Michael S.
+Title
+  Evidence is lacking for interventions proposed to prevent unintended awareness during general anesthesia for cesarean delivery.
+Comments
+  Comment on: Anesth Analg. 2009 Sep;109(3):886-90; PMID: 19690262
+Source
+  Anesthesia & Analgesia.  110(3):972-3; author reply 973-4, 2010 Mar 1.
+Publication Type
+  Comment.  Letter.
+Date Created
+  20100226
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20185675
+
+<108>
+Unique Identifier
+  19672610
+Status
+  MEDLINE
+Authors
+  Paternoster DM.  Pascoli I.  Parotto M.  Cester M.  Nanhorngue K.  Merati E.  Arrigoni S.  Garofalo G.  Bertolino M.  Micaglio M.  Ripa C.
+Authors Full Name
+  Paternoster, Delia Maria.  Pascoli, Irene.  Parotto, Matteo.  Cester, Maddalena.  Nanhorngue, Kimta.  Merati, Elisa.  Arrigoni, Silvia.  Garofalo, Greta.  Bertolino, Maria.  Micaglio, Massimo.  Ripa, Claudio.
+Institution
+  Department of Clinical and Experimental Medicine, University of Piemonte Orientale, Gynecological and Obstetric Clinic, Novara, Italy. paternod@unipd.it
+Title
+  Pulmonary hypertension during pregnancy: management of two cases.
+Source
+  Archives of Gynecology & Obstetrics.  281(3):431-4, 2010 Mar.
+Abstract
+  PURPOSE: The aim of this article is to describe two cases of pulmonary hypertension during pregnancy to highlight the major issues associated with the obstetric and anesthesiological management of such patients who, despite the medical advice, decided to continue their pregnancy and gave birth to healthy babies.
+
+  METHODS AND RESULTS: In our first case, there has been the need for a general anesthesia because of the detachment of the placenta, whereas in the second case elective surgery under spinal anesthesia was performed, thus avoiding the anesthesiological and surgical problems associated with an emergency.
+
+  CONCLUSIONS: Pregnancy is contraindicated in case of pulmonary hypertension, a highly morbid disease affecting young women of childbearing age. Therefore, in such cases, a multidisciplinary approach is indispensable to plan optimal treatment for patients who wish to pursue a pregnancy even though their heart disease exposes them to a high level of risk.
+Publication Type
+  Case Reports.  Journal Article.
+Date Created
+  20100203
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19672610
+
+<109>
+Unique Identifier
+  20091567
+Status
+  MEDLINE
+Authors
+  Paranjothy S.  Griffiths JD.  Broughton HK.  Gyte GM.  Brown HC.  Thomas J.
+Authors Full Name
+  Paranjothy, Shantini.  Griffiths, James D.  Broughton, Hannah K.  Gyte, Gillian Ml.  Brown, Heather C.  Thomas, Jane.
+Institution
+  Department of Primary Care and Public Health, Clinical Epidemiology Interdisciplinary Research Group, School of Medicine, Cardiff University, 5th Floor Neuadd Meirionnydd, Heath Park, Cardiff, UK, CF14 4YS.
+Title
+  Interventions at caesarean section for reducing the risk of aspiration pneumonitis. [Review] [186 refs]
+Source
+  Cochrane Database of Systematic Reviews.  (1):CD004943, 2010.
+Abstract
+  BACKGROUND: Aspiration pneumonitis is a syndrome resulting from the inhalation of gastric contents. The incidence in obstetric anaesthesia has fallen, largely due to improved anaesthetic techniques and the increased use of regional anaesthesia at caesarean section. However, aspiration pneumonitis is still a cause of maternal morbidity and mortality, and it is important to use effective prophylaxis.
+
+  OBJECTIVES: To determine whether interventions given prior to caesarean section reduce the risk of aspiration pneumonitis in women with an uncomplicated pregnancy.
+
+  SEARCH STRATEGY: We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (April 2009).
+
+  SELECTION CRITERIA: Randomised controlled trials were included. Quasi-randomised trials were excluded.
+
+  DATA COLLECTION AND ANALYSIS: Authors independently assessed the studies for inclusion, assessed risk of bias and carried out data extraction. Data entry was checked.
+
+  MAIN RESULTS: Twenty-two studies, involving 2658 women, are included, all having a caesarean section under general anaesthesia. The studies covered a number of comparisons, but were mostly small and of unclear or poor quality.When compared to no treatment or placebo, there was a significant reduction in the risk of intragastric pH < 2.5 with antacids (risk ratio (RR) 0.17, 95% confidence interval (CI) 0.09 to 0.32, two studies, 108 women), H(2) antagonists (RR 0.09, 95% CI 0.05 to 0.18, two studies, 170 women) and proton pump antagonists (RR 0.26, 95% CI 0.14 to 0.46, one study 80 women). H(2) antagonists were associated with a reduced the risk of intragastric pH < 2.5 at intubation when compared with proton pump antagonists (RR 0.39, 95% CI 0.16 to 0.97, one study, 120 women), but compared with antacids the findings were unclear. The combined use of 'antacids plus H(2) antagonists' was associated with a significant reduction in the risk of intragastric pH < 2.5 at intubation when compared with placebo (RR 0.02, 95% CI 0.00 to 0.15, one study, 89 women) or compared with antacids alone (RR 0.12, 95% CI 0.02 to 0.92, one study, 119 women).
+
+  AUTHORS' CONCLUSIONS: The quality of the evidence was poor, but the findings suggest that the combination of antacids plus H(2) antagonists was more effective than no intervention, and superior to antacids alone in preventing low gastric pH. However, none of the studies assessed potential adverse effects or substantive clinical outcomes. These findings are relevant for all women undergoing caesarean section under general anaesthesia. [References: 186]
+Publication Type
+  Journal Article.  Meta-Analysis.  Review.
+Date Created
+  20100121
+Year of Publication
+  2010
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=20091567
+
+<112>
+Unique Identifier
+  19783538
+Status
+  MEDLINE
+Authors
+  Lee DH.  Kwon IC.
+Authors Full Name
+  Lee, D H.  Kwon, I C.
+Institution
+  Department of Anaesthesiology and Pain Medicine, College of Medicine, Yeungnam University, Daegu, Republic of Korea. dhlee415@ynu.ac.kr
+Title
+  Magnesium sulphate has beneficial effects as an adjuvant during general anaesthesia for Caesarean section.
+Source
+  British Journal of Anaesthesia.  103(6):861-6, 2009 Dec.
+Abstract
+  BACKGROUND: The use of low concentrations of volatile anaesthetics with avoidance of opioids may induce intraoperative awareness and adverse haemodynamic responses during Caesarean section. Magnesium is well known to reduce anaesthetic requirements and to block noxious stimuli. We investigated whether i.v. magnesium sulphate modulates anaesthetic depth and analgesic efficacy during Caesarean section.
+
+  METHODS: Seventy-two patients undergoing Caesarean section were randomly assigned to receive i.v. saline (control group) or magnesium sulphate 30 mg kg(-1) bolus+10 mg kg(-1) h(-1) continuous infusion (Mg 30 group) or 45 mg kg(-1) bolus+15 mg kg(-1) h(-1) continuous infusion (Mg 45 group) after induction. Bispectral index (BIS) value, mean arterial pressure (MAP), and midazolam, fentanyl, and atracurium consumptions were recorded.
+
+  RESULTS: BIS values [mean (sd)] at 7.5 and 10 min after surgery and before delivery in the control [64 (9), 66 (8), 67 (8), P<0.001] and the Mg 30 groups [62 (8), P<0.01; 64 (7), 63 (9), P<0.001] were higher than in the Mg 45 group [56 (8), 55 (8), 55 (7)]. MAP was greater in the control group (P<0.05) than in the Mg 30 and Mg 45 groups during the pre-delivery period. The magnesium groups required less midazolam (P<0.05), fentanyl (Mg 30, P<0.05; Mg 45, P<0.01), and atracurium (P<0.001) vs the control group.
+
+  CONCLUSIONS: Preoperative i.v. magnesium sulphate attenuated BIS and arterial pressure increases during the pre-delivery period. Magnesium sulphate can be recommended as an adjuvant during general anaesthesia for Caesarean section to avoid perioperative awareness and pressor response resulting from inadequate anaesthesia, analgesia, or both.
+Publication Type
+  Journal Article.  Randomized Controlled Trial.  Research Support, Non-U.S. Gov't.
+Date Created
+  20091117
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19783538
+
+<113>
+Unique Identifier
+  19825049
+Status
+  MEDLINE
+Authors
+  Djabatey EA.  Barclay PM.
+Authors Full Name
+  Djabatey, E A.  Barclay, P M.
+Institution
+  Anaesthetists, Liverpool Women's Hospital, Liverpool, UK. edwin.djabatey@lwh.nhs.uk
+Title
+  Difficult and failed intubation in 3430 obstetric general anaesthetics.
+Comments
+  Comment in: Anaesthesia. 2010 May;65(5):530-1; author reply 531; PMID: 20522032
+Source
+  Anaesthesia.  64(11):1168-71, 2009 Nov.
+Abstract
+  A retrospective audit was performed of all obstetric general anaesthetics in our hospital over an 8 year period to determine the incidence of difficult and failed intubation. Data was collected from a number of sources to ensure accuracy. A total of 3430 rapid sequence anaesthetics were given. None of the patients had a failed or oesophageal intubation (95% CI, 0-1:1143). There were 23 difficult intubations (95% CI, 1:238-1:100). This was anticipated in nine cases, requiring awake fibreoptic intubation in three cases. Consultants or specialist registrars were involved in the management of all cases. We attribute the low incidence of airway complications to the above average rate of general anaesthesia in our hospital, senior cover and specialised anaesthetic operating department assistants.
+Publication Type
+  Journal Article.
+Date Created
+  20091014
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19825049
+
+<114>
+Unique Identifier
+  19734035
+Status
+  MEDLINE
+Authors
+  Aghdashi MM.  Abbasivash R.  Hassani E.  Pirnejad H.
+Authors Full Name
+  Aghdashi, M M.  Abbasivash, R.  Hassani, E.  Pirnejad, H.
+Institution
+  Department of Anesthesia, Mothahari Hospital, Urmia Medical Science University, Urmia Iran. Aghdashi@umsu.ac.ir
+Title
+  Fatal respiratory thermal injury following accidental administration of carbon dioxide using the circle system for a cesarean delivery.
+Source
+  International Journal of Obstetric Anesthesia.  18(4):400-2, 2009 Oct.
+Abstract
+  A 37-year-old parturient underwent emergency cesarean delivery because of severe preeclampsia. After induction of general anesthesia, the oxygen saturation decreased. Volatile anesthetics were discontinued and examination of the anesthetic circuit and machine revealed a soda lime canister that was extremely hot. The patient was detached from the anesthetic machine and hand-ventilated with an external oxygen cylinder. The surgery was cancelled and the patient was extubated. Analysis of the cylinder connected to the anesthesia machine displayed 100% carbon dioxide. The patient developed progressive respiratory failure. Bronchoscopic examination revealed burn scars from the carina to the main bronchi. The patient died within four months of the incident.
+Publication Type
+  Case Reports.  Journal Article.
+Date Created
+  20090928
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19734035
+
+<115>
+Unique Identifier
+  19733055
+Status
+  MEDLINE
+Authors
+  Neumann MM.  Davio MB.  Macknet MR.  Applegate RL 2nd.
+Authors Full Name
+  Neumann, M M.  Davio, M B.  Macknet, M R.  Applegate, R L 2nd.
+Institution
+  Department of Anesthesiology, Loma Linda University, 11234 Anderson Street, Suite #2532, Loma Linda, CA, 92350, USA. mneumann@llu.edu
+Title
+  Dexmedetomidine for awake fiberoptic intubation in a parturient with spinal muscular atrophy type III for cesarean delivery.
+Source
+  International Journal of Obstetric Anesthesia.  18(4):403-7, 2009 Oct.
+Abstract
+  Spinal muscular atrophy in pregnancy is rare and poses multiple problems for the anesthesiologist. The effects of dexmedetomidine on a parturient with spinal muscular atrophy have not previously been reported. There are also no in vivo data on placental transfer of dexmedetomidine and its effects on a human neonate. We report the hemodynamic, respiratory and sedative effects of dexmedetomidine on a parturient and neonate when used for awake fiberoptic intubation before cesarean section. A 35-year-old, gravida 4 para 0 aborta 3, 41-kg parturient at 35 weeks of gestation with spinal muscular atrophy presented for cesarean section. Dexmedetomidine was administered intravenously, total dose 1.84 microg/kg over 38 minutes, followed by fiberoptic endotracheal intubation. Dexmedetomidine was then discontinued and general anesthesia was induced. The baby was delivered 68 minutes after the dexmedetomidine infusion was discontinued at which time blood samples were obtained for measurement of dexmedetomidine. During administration of dexmedetomidine, maternal heart rate, blood pressure and oxygen saturation remained stable. Apgar scores at 1 and 5 min were 6 and 8. The fetal concentration of dexmedetomidine (540 pg/mL) indicates significant placental transfer, but significant adverse neonatal effects were not observed. Dexmedetomidine alone provided adequate sedation for awake intubation without respiratory compromise in this patient.
+Publication Type
+  Case Reports.  Journal Article.
+Date Created
+  20090928
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19733055
+
+<118>
+Unique Identifier
+  19699631
+Status
+  MEDLINE
+Authors
+  Ismail S.  Huda A.
+Authors Full Name
+  Ismail, S.  Huda, A.
+Institution
+  Department of Anaesthesia, Aga Khan University Hospital, Stadium Road, P.O. Box 3500, Karachi 74800, Pakistan. samina.ismail@aku.edu
+Title
+  An observational study of anaesthesia and surgical time in elective caesarean section: spinal compared with general anaesthesia.
+Source
+  International Journal of Obstetric Anesthesia.  18(4):352-5, 2009 Oct.
+Abstract
+  BACKGROUND: Neuraxial techniques are increasingly used in obstetric anaesthesia. In our hospital, time constraints are the main problem when planning anaesthesia for elective caesarean section. Neuraxial anaesthesia is believed to take longer than general anaesthesia. The objective of this prospective, observational study was to compare time to surgical readiness and total operating room time with spinal with general anaesthesia for elective caesarean section at a Pakistani university hospital for a period of six months.
+
+  METHODS: Two hundred and forty-five patients receiving either general or spinal anaesthesia were studied. The times of arrival and leaving the operating room, the start and completion of anaesthetic induction, surgical readiness, incision and completion of surgery, were noted.
+
+  RESULTS: The times for surgical readiness (general: 16.8+/-5.4 vs. spinal: 21.1+/-8.2 min), anaesthesia (general: 4.5+/-1.4 vs. spinal: 8.1+/-3.8 min) and surgery (general 50.8+/-12.3 vs. spinal 54.8+/-14.0 min) were longer in the spinal group, but emergence time (general: 12.2+/-4.3 vs. spinal: 7.3+/-2.7) was longer for general anaesthesia. No significant difference was found in the total operating room presence between the two groups (general 76.6+/-14.4 vs. spinal 76.3+/-16.3 min).
+
+  CONCLUSION: In our hospital, the use of spinal anaesthesia was not associated with decreased intra-operative time efficiency compared to general anaesthesia for elective caesarean section.
+Publication Type
+  Comparative Study.  Journal Article.
+Date Created
+  20090928
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19699631
+
+<121>
+Unique Identifier
+  19688953
+Status
+  MEDLINE
+Authors
+  Liberis V.  Tsikouras P.  Vogiatzaki T.  Savidis A.  Ammari A.  Iatrou Ch.  Maroulis G.
+Authors Full Name
+  Liberis, V.  Tsikouras, P.  Vogiatzaki, T.  Savidis, A.  Ammari, A.  Iatrou, Ch.  Maroulis, G.
+Institution
+  Department of Obstetrics and Gynaecology, Democritus University of Thrace, Greece.
+Title
+  The contribution of anaesthesia modus on reducing blood loss during caesarean section.
+Source
+  Clinical & Experimental Obstetrics & Gynecology.  36(2):105-9, 2009.
+Abstract
+  The purpose of this study was to compare the effects of general anaesthesia (GA) and regional anaesthesia (RA) on the blood loss during caesarean section. We report on 161 patients undergoing both elective and emergency caesarean section at the Obstetrical Department of Democritus University of Thrace. In the majority (113 women, 70.2%) GA was used, while in 48 women (29.8%) RA was used. No significant differences were found in the demographic characteristics of the study women in the two groups. Although the preoperative Hgb and Hct levels did not differ significantly in the two groups RA vs GA, the postoperative Hgb and Hct levels were significantly lower in women who were subjected to GA compared to those who were subjected to RA (p < 0.05). The study showed that there is greater reduction in blood loss with RA compared to GA during caesarean section.
+Publication Type
+  Comparative Study.  Journal Article.
+Date Created
+  20090819
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19688953
+
+<122>
+Unique Identifier
+  19602960
+Status
+  MEDLINE
+Authors
+  Sprung J.  Flick RP.  Wilder RT.  Katusic SK.  Pike TL.  Dingli M.  Gleich SJ.  Schroeder DR.  Barbaresi WJ.  Hanson AC.  Warner DO.
+Authors Full Name
+  Sprung, Juraj.  Flick, Randall P.  Wilder, Robert T.  Katusic, Slavica K.  Pike, Tasha L.  Dingli, Mariella.  Gleich, Stephen J.  Schroeder, Darrell R.  Barbaresi, William J.  Hanson, Andrew C.  Warner, David O.
+Institution
+  Department of Anesthesiology, Mayo Clinic, Rochester, Minnesota, USA.
+Title
+  Anesthesia for cesarean delivery and learning disabilities in a population-based birth cohort.
+Source
+  Anesthesiology.  111(2):302-10, 2009 Aug.
+Other ID
+  Source: NLM. NIHMS262553
+  Source: NLM. PMC3076711
+Abstract
+  BACKGROUND: Anesthetics administered to immature brains may cause histopathological changes and long-term behavioral abnormalities. The association between perinatal exposure to anesthetics during Cesarean delivery (CD) and development of learning disabilities (LD) was determined in a population-based birth cohort.
+
+  METHODS: The educational and medical records of all children born to mothers residing in five townships of Olmsted County, Minnesota from 1976-1982 and remaining in the community at age 5 were reviewed to identify those with LDs. Cox proportional hazards regression was used to compare rates of LD between children delivered vaginally and via CD (with general or regional anesthesia).
+
+  RESULTS: Of the 5,320 children in this cohort, 497 were delivered via CD (under general anesthesia n = 193, and regional anesthesia n = 304). The incidence of LD depended on mode of delivery (P = 0.050, adjusted for sex, birth weight, gestational age, exposure to anesthesia before age 4 yr, and maternal education). LD risk was similar in children delivered by vagina or CD with general anesthesia, but was reduced in children receiving CD with regional anesthesia (hazard ratio = 0.64, 95% confidence interval 0.44 to 0.92; P = 0.017 for comparison of CD under regional anesthesia compared to vaginal delivery).
+
+  CONCLUSION: Children exposed to general or regional anesthesia during CD are not more likely to develop LD compared to children delivered vaginally, suggesting that brief perinatal exposure to anesthetic drugs does not adversely affect long-term neurodevelopmental outcomes. The risk of LD may be lower in children delivered by CD whose mothers received regional anesthesia.
+Publication Type
+  Journal Article.  Research Support, Non-U.S. Gov't.
+Date Created
+  20090724
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19602960
+
+<125>
+Unique Identifier
+  19464869
+Status
+  MEDLINE
+Authors
+  Larkin C.  Murphy F.  Browne I.
+Authors Full Name
+  Larkin, C.  Murphy, F.  Browne, I.
+Title
+  Anaesthetic management of pregnancy complicated by a symptomatic arachnoid cyst.
+Comments
+  Comment on: Int J Obstet Anesth. 2007 Jul;16(3):265-8; PMID: 17337176
+Source
+  International Journal of Obstetric Anesthesia.  18(3):291-2, 2009 Jul.
+Publication Type
+  Case Reports.  Comment.  Letter.
+Date Created
+  20090622
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19464869
+
+<130>
+Unique Identifier
+  19429669
+Status
+  MEDLINE
+Authors
+  Yoo KY.  Jeong CW.  Park BY.  Kim SJ.  Jeong ST.  Shin MH.  Lee J.
+Authors Full Name
+  Yoo, K Y.  Jeong, C W.  Park, B Y.  Kim, S J.  Jeong, S T.  Shin, M H.  Lee, J.
+Institution
+  Department of Anaesthesiology, National University Medical School, 8 Hak-dong, Gwangju 501-190, South Korea. kyyoo@jnu.ac.kr
+Title
+  Effects of remifentanil on cardiovascular and bispectral index responses to endotracheal intubation in severe pre-eclamptic patients undergoing Caesarean delivery under general anaesthesia.
+Source
+  British Journal of Anaesthesia.  102(6):812-9, 2009 Jun.
+Abstract
+  BACKGROUND: We examined the effects of remifentanil on cardiovascular and bispectral index (BIS) responses to tracheal intubation and neonatal outcomes in pre-eclamptic patients undergoing Caesarean delivery under general anaesthesia.
+
+  METHODS: Forty-two women with severe pre-eclampsia were randomly assigned to receive either remifentanil 1 microg kg(-1) (n=21) or saline (n=21) over 30 s before induction of anaesthesia using thiopentone 4 mg kg(-1) and suxamethonium 1.5 mg kg(-1). Mean arterial pressure (MAP), heart rate (HR) and BIS values as well as plasma catecholamine concentrations were measured. Neonatal effects were assessed using Apgar scores and umbilical cord blood gas analysis.
+
+  RESULTS: Induction with thiopentone caused a reduction in MAP and BIS in both remifentanil and control groups. Following the tracheal intubation MAP and HR increased in both groups, the magnitude of which was lower in the remifentanil group. BIS values also increased, of which magnitude did not differ between the groups. Norepinephrine concentrations increased significantly following the intubation in the control, while remained unaltered in the remifentanil group. The neonatal Apgar scores at 1 min were significantly lower in the remifentanil group than in the control. However, Apgar scores at 5 min, and umbilical artery and vein blood gas values were similar between the groups.
+
+  CONCLUSIONS: These results suggest that a single bolus of 1 microg kg(-1) remifentanil effectively attenuates haemodynamic but not BIS responses to tracheal intubation in pre-eclamptic patients undergoing Caesarean delivery under general anaesthesia. However, its use was associated with maternal hypotension and neonatal respiratory depression requiring resuscitation.
+Publication Type
+  Journal Article.  Randomized Controlled Trial.
+Date Created
+  20090519
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19429669
+
+<132>
+Unique Identifier
+  19448217
+Status
+  MEDLINE
+Authors
+  Singh A.  Harnett MJ.  Connors JM.  Camann WR.
+Authors Full Name
+  Singh, Amarjeet.  Harnett, Miriam J.  Connors, Jean M.  Camann, William R.
+Institution
+  Division of Obstetric Anesthesiology, Department of Anesthesiology, Harvard Medical School, Brigham and Women's Hospital, 75 Francis St., Boston, MA 02115, USA.
+Title
+  Factor XI deficiency and obstetrical anesthesia.
+Source
+  Anesthesia & Analgesia.  108(6):1882-5, 2009 Jun.
+Abstract
+  Factor XI (FXI) deficiency is a rare inherited coagulation disorder associated with prolonged activated partial thromboplastin time. The severity of bleeding often does not correlate with plasma factor levels. We reviewed the medical and anesthetic records of 13 parturients with FXI deficiency that presented for delivery. Nine cases were managed with neuraxial anesthesia. (epidural, seven; spinal, one; combined spinal-epidural, one). Three received general anesthesia for cesarean delivery, and one had an unmedicated vaginal delivery. Baseline factor levels ranged from severe (<15%) to mild (near 50%) deficiency. Fresh frozen plasma was administered to correct activated partial thromboplastin time in most, but not all, cases. Hematology consultation was obtained for all. No hematological or anesthetic complications were noted. FXI deficiency is not an absolute contraindication to neuraxial anesthesia, provided appropriate hematology consultation has been obtained, and factor replacement is provided as guided by clinical and laboratory hemostatic evaluation.
+Publication Type
+  Journal Article.
+Date Created
+  20090518
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19448217
+
+<137>
+Unique Identifier
+  19317700
+Status
+  MEDLINE
+Authors
+  McClelland SH.  Bogod DG.  Hardman JG.
+Authors Full Name
+  McClelland, S H.  Bogod, D G.  Hardman, J G.
+Institution
+  Derbyshire Royal Infirmary, Derby, UK.
+Title
+  Pre-oxygenation and apnoea in pregnancy: changes during labour and with obstetric morbidity in a computational simulation.
+Source
+  Anaesthesia.  64(4):371-7, 2009 Apr.
+Abstract
+  Using the Nottingham Physiology Simulator, we investigated the effects on pre-oxygenation and apnoea during rapid sequence induction of labour, obesity, sepsis, pre-eclampsia, maternal haemorrhage and multiple pregnancy in term pregnancy. Pre-oxygenation with 100% oxygen was followed by simulated rapid sequence induction when end-tidal nitrogen tension was less than 1 kPa, and apnoea. Labour, morbid obesity and sepsis accelerated pre-oxygenation and de-oxygenation during apnoea. Fastest pre-oxygenation was in labour, with 95% of the maximum change in expired oxygen tension occurring in 47 s, compared to 97 s in a standard pregnant subject. The labouring subject with a body mass index of 50 kg x m(-2) demonstrated the fastest desaturation, the time taken to fall to an arterial saturation < 90% being 98 s, compared to 292 s in a standard pregnant subject. Pre-eclampsia prolonged pre-oxygenation and tolerance to apnoea. Maternal haemorrhage and multiple pregnancy had minor effects. Our results inform the risk-benefit comparison of the anaesthetic options for Caesarean section.
+Publication Type
+  Journal Article.
+Date Created
+  20090325
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19317700
+
+<140>
+Unique Identifier
+  19233640
+Status
+  MEDLINE
+Authors
+  Vanner R.
+Authors Full Name
+  Vanner, Richard.
+Title
+  Cricoid pressure.
+Comments
+  Comment on: Int J Obstet Anesth. 2009 Apr;18(2):106-10; PMID: 19144507
+Source
+  International Journal of Obstetric Anesthesia.  18(2):103-5, 2009 Apr.
+Publication Type
+  Comment.  Editorial.
+Date Created
+  20090323
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19233640
+
+<141>
+Unique Identifier
+  19196506
+Status
+  MEDLINE
+Authors
+  El Shobary H.  Schricker T.  Kaufman I.
+Authors Full Name
+  El Shobary, H.  Schricker, T.  Kaufman, I.
+Institution
+  Department of Anaesthesia, McGill University, Montreal, Quebec, Canada.
+Title
+  Anaesthetic management of parturients with hereditary haemorrhagic telangiectasia for caesarean section.
+Source
+  International Journal of Obstetric Anesthesia.  18(2):176-81, 2009 Apr.
+Abstract
+  Hereditary haemorrhagic telangiectasia, also known as Osler-Weber-Rendu disease, is a vascular disorder characterized by multiple mucocutaneous and visceral arteriovenous malformations. There is little in the literature about the anaesthetic management of parturients with this condition. We report the anaesthetic management for caesarean section of two such parturients. One patient, with significant pulmonary involvement, received neuraxial anaesthesia for caesarean delivery. The second patient had general anaesthesia because investigations could not rule out neurological involvement. We review and discuss the anaesthetic considerations for obstetric patients with hereditary haemorrhagic telangiectasia.
+Publication Type
+  Case Reports.  Journal Article.
+Date Created
+  20090323
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19196506
+
+<144>
+Unique Identifier
+  19280491
+Status
+  MEDLINE
+Authors
+  Fassoulaki A.  Petropoulos G.  Staikou C.  Siafaka I.  Sarantopoulos C.
+Authors Full Name
+  Fassoulaki, A.  Petropoulos, G.  Staikou, C.  Siafaka, I.  Sarantopoulos, C.
+Institution
+  Department of Anaesthesiology, Aretaieio Hospital, Athens, Greece. fassoula@aretaieio.uoa.gr
+Title
+  General versus neuraxial anaesthesia for caesarean section: impact on the duration of hospital stay.
+Source
+  Journal of Obstetrics & Gynaecology.  29(1):25-30, 2009 Jan.
+Abstract
+  We investigated retrospectively the duration of hospital stay of 1,619 women who received general (GA) (n = 582) or neuraxial anaesthesia (combined spinal-epidural [CSEA] (n = 614), epidural [EA] (n = 423)) for caesarean delivery over the years 2002-2005. Hospital stay was also analysed for the different obstetricians involved. Overall duration of hospital stay differed between 2002 and 2005 (p < 0.0001) but not between CSEA and EA (p = 0.460). Overall duration of hospital stay differed between neuraxial and GA group (p < 0.001). Duration of hospital stay of the GA group showed a progressive decrease between 2002 and 2005 (p = 0.002). Duration of hospital stay after neuraxial anaesthesia differed between 2002 and 2005 (p = 0.013) and among different surgeons (p < 0.001). Discharge rates from the hospital were shorter after neuraxial anaesthesia versus GA for the 3rd and 4th postoperative days (p < 0.001 and p < 0.001, respectively). Neuraxial anaesthesia for caesarean section seems to be associated with shorter duration of hospital stay than GA.
+Publication Type
+  Journal Article.
+Date Created
+  20090312
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19280491
+
+<147>
+Unique Identifier
+  19073611
+Status
+  MEDLINE
+Authors
+  Halpern SH.  Soliman A.  Yee J.  Angle P.  Ioscovich A.
+Authors Full Name
+  Halpern, S H.  Soliman, A.  Yee, J.  Angle, P.  Ioscovich, A.
+Institution
+  Department of Anesthesia, Sunnybrook Health Sciences Centre, 76 Grenville St, Toronto, Ontario, Canada M5S 1B2. stephen.halpern@sunnybrook.ca
+Title
+  Conversion of epidural labour analgesia to anaesthesia for Caesarean section: a prospective study of the incidence and determinants of failure.
+Source
+  British Journal of Anaesthesia.  102(2):240-3, 2009 Feb.
+Abstract
+  BACKGROUND: The incidence of general anaesthesia (GA) has been used as a marker for the quality of obstetric anaesthesia care. Recent guidelines suggest the rate of GA for Caesarean section in parturients with pre-existing epidural analgesia for labour should be <3%. The primary purpose of this study is to determine whether or not this is an achievable standard in a university teaching hospital. We also wished to determine the factors influencing the incidence of inadequate anaesthesia.
+
+  METHODS: We studied a consecutive cohort of 501 patients who had a Caesarean section after epidural labour analgesia. The incidence of GA, the total incidence of failure, and the factors previously associated with failure were recorded. Factors shown to be significant with univariate analysis were used in a binary logistic regression to determine the independent risk factors for failure.
+
+  RESULTS: Twenty-one of 501 parturients required GA (4.1%, 95% confidence interval 2.6-6.3%), not significantly different from 3% (P=0.1). Fifteen of 21 (71%) of these occurred intraoperatively. The total rate of failure was 30/501 (5.9%, 95% confidence interval 4.0-8.4%). Maternal height and the number of clinician top-ups in labour were the significant independent risk factors for failure.
+
+  CONCLUSIONS: Intraoperative conversion to GA may increase both maternal and fetal risks. Strategies to reduce the incidence may include early recognition of inadequate labour analgesia and reliable assessment of adequacy of surgical anaesthesia.
+Publication Type
+  Journal Article.
+Date Created
+  20090119
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19073611
+
+<148>
+Unique Identifier
+  19026531
+Status
+  MEDLINE
+Authors
+  Dermitzaki E.  Staikou C.  Petropoulos G.  Rizos D.  Siafaka I.  Fassoulaki A.
+Authors Full Name
+  Dermitzaki, E.  Staikou, C.  Petropoulos, G.  Rizos, D.  Siafaka, I.  Fassoulaki, A.
+Institution
+  Department of Anesthesia, Aretaieio Hospital, Medical School, University of Athens, Greece.
+Title
+  A randomized study of maternal serum cytokine levels following cesarean section under general or neuraxial anesthesia.
+Source
+  International Journal of Obstetric Anesthesia.  18(1):33-7, 2009 Jan.
+Abstract
+  BACKGROUND: Cytokines are significant mediators of the immune response to surgery and also play a role in parturition. The aim of the study was to investigate the impact of the anesthetic technique for cesarean section on plasma levels of cytokines IL-6 and TNF-alpha.
+
+  METHODS: Thirty-five parturients scheduled for elective cesarean section were randomly assigned to general (n=18) or neuraxial (n=17) anesthesia. The general anesthesia group received thiopental 4 mg/kg, succinylcholine 1-1.5 mg/kg and 1% end-tidal concentration of sevoflurane in nitrous oxide and 50% oxygen. The neuraxial anesthesia group received intrathecal 0.5% levobupivacaine 1.8-2.2 mL and epidural fentanyl 1 microg/kg. Blood samples were taken for IL-6 and TNF-alpha immediately after positioning the parturient on the operating table, after uterine incision and before the umbilical cord clamping and 24h after surgery (T(1), T(2) and T(3) respectively).
+
+  RESULTS: The two groups did not differ in IL-6 (P=0.15) or TNF-alpha (P=0.73) serum concentrations at any time point. In the general and neuraxial anesthesia groups, IL-6 serum concentrations were significantly higher in the third blood sample, T(3) (12.2+/-5.0 and 15.2+/-4.3 pg/mL), than in T(1) (0.41+/-0.38 and 0.29+/-0.10 pg/mL) and T(2) (0.37+/-0.47 and 0.24+/-0.05) respectively (P<0.001). Within each group, serum TNF-alpha concentrations did not differ significantly over time (P=0.44).
+
+  CONCLUSIONS: Under the present study design anesthetic technique did not affect IL-6 or TNF-alpha concentrations in parturients undergoing elective cesarean section. Serum IL-6 levels increased 24 h postoperatively independently of anesthetic technique.
+Publication Type
+  Journal Article.  Randomized Controlled Trial.
+Date Created
+  20081229
+Year of Publication
+  2009
+Link to the Ovid Full Text or citation
+ http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=medl&AN=19026531
+
+
+

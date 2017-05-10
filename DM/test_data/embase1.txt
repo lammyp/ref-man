@@ -1,0 +1,132 @@
+Database: Embase <1980 to 2013 January 23>
+Search Strategy:
+--------------------------------------------------------------------------------
+1     (exp anesthesia/ or exp perioperative period/ or an?esthe*.mp. or perioperative.ti,ab.) and (exp child/ or child*.af. or exp pediatrics/ or p?ediatric*.af.) (59259)
+2     exp postoperative pain/ or exp postoperative complication/ or exp postoperative vomiting/ or postoperative nausea/ or (postoperative adj5 (pain or nausea or vomiting or analgesia)).mp. or (delirium or agitation or pruritus or itch* or sedation or hypotensi* or bradycardi*).mp. (720896)
+3     exp clonidine/ or clonidin*.af. (36032)
+4     1 and 2 and 3 (565)
+5     (randomized-controlled-trial/ or randomization/ or controlled-study/ or multicenter-study/ or phase-3-clinical-trial/ or phase-4-clinical-trial/ or double-blind-procedure/ or single-blind-procedure/ or (random* or cross?over* or multicenter* or factorial* or placebo* or volunteer*).mp. or ((singl* or doubl* or trebl* or tripl*) adj3 (blind* or mask*)).ti,ab. or (latin adj square).mp.) not (animals not (humans and animals)).sh. (4719989)
+6     4 and 5 (210)
+
+***************************
+
+<1>
+Authors
+  Sun Y. Li T. Wang N. Fred Yun Y. Gan T.J. 
+Title
+  Perioperative systemic lidocaine for postoperative analgesia and recovery after abdominal surgery: A meta-analysis of randomized controlled trials.
+Source
+  Diseases of the Colon and Rectum. 55 (11) (pp 1183-1194), 2012. Date of Publication: November 2012.
+Publisher
+  Lippincott Williams and Wilkins (530 Walnut Street,P O Box 327, Philadelphia PA 19106-3621, United States)
+Publication Type
+  Journal: Article
+
+<2>
+Authors
+  Fernandes M.L. Pires K.C. Tiburcio M.A. Gomez R.S.
+Title
+  Caudal bupivacaine supplemented with morphine or clonidine, or supplemented with morphine plus clonidine in children undergoing infra-umbilical urological and genital procedures: a prospective, randomized and double-blind study.
+Source
+  Journal of anesthesia. 26 (2) (pp 213-218), 2012. Date of Publication: Apr 2012.
+Publication Type
+  Journal: Article
+
+<3>
+Authors
+  Alizadeh R. Mireskandari S.-M. Azarshahin M. Darabi M.-E. Padmehr R. Jafarzadeh A. Aghsaee-Fard Z.
+Title
+  Oral clonidine premedication reduces nausea and vomiting in children after appendectomy.
+Source
+  Iranian Journal of Pediatrics. 22 (3) (pp 399-403), 2012. Date of Publication: September 2012.
+Publisher
+  Tehran University of Medical Sciences (TUMS) (No. 31, Poursina St. Ghods Ave, Tehran, Iran, Islamic Republic of)
+Publication Type
+  Journal: Article
+
+<4>
+Authors
+  Shum S. Lim J. Page T. Lamb E. Gow J. Ansermino J.M. Lauder G.
+Title
+  An audit of pain management following pediatric day surgery at British Columbia Children's Hospital.
+Source
+  Pain Research and Management. 17 (5) (pp 328-334), 2012. Date of Publication: September-October 2012.
+Publisher
+  Pulsus Group Inc. (2902 South Sheridan Way, Oakville ONT L6J 7L6, Canada)
+Publication Type
+  Journal: Article
+
+<5>
+Authors
+  Das H. Ghosh S. Laha A.
+Title
+  Comparison of caudal analgesia between ropivacaine and ropivacaine with clonidine in children: A randomized controlled trial.
+Source
+  Saudi Journal of Anaesthesia. 6 (3) (pp 197-200), 2012. Date of Publication: July-September 2012.
+Publisher
+  Medknow Publications and Media Pvt. Ltd (B9, Kanara Business Centre, off Link Road, Ghatkopar (E), Mumbai 400 075, India)
+Publication Type
+  Journal: Article
+
+<6>
+Authors
+  De Puydt J. Vermeylen K. Engelen S. Spaepen D. Soetens F. Himpe D.
+Title
+  Comparison of the duration of postoperative analgesia using a popliteal block with or without dexamethasone or clonidine.
+Source
+  Regional Anesthesia and Pain Medicine. Conference: 31st Annual European Society of Regional Anaesthesia, ESRA Congress 2012 Bordeaux France. Conference Start: 20120905 Conference End: 20120908. Conference Publication: (var.pagings). 37 (5 SUPPL. 1) (pp E206), 2012. Date of Publication: September-October 2012.
+Publisher
+  Lippincott Williams and Wilkins
+Publication Type
+  Journal: Conference Abstract
+
+<7>
+Authors
+  Kvarstein G.
+Title
+  Why drug choice and catheter position matter.
+Source
+  Regional Anesthesia and Pain Medicine. Conference: 31st Annual European Society of Regional Anaesthesia, ESRA Congress 2012 Bordeaux France. Conference Start: 20120905 Conference End: 20120908. Conference Publication: (var.pagings). 37 (5 SUPPL. 1) (pp E150-E151), 2012. Date of Publication: September-October 2012.
+Publisher
+  Lippincott Williams and Wilkins
+Publication Type
+  Journal: Conference Abstract
+
+<8>
+Authors
+  Mahajan R.K. Singh I. Kataria A.P.
+Title
+  Comparison of oral clonidine and midazolam as premedications in children.
+Source
+  Journal of Clinical and Diagnostic Research. 6 (5) (pp 870-873), 2012. Date of Publication: 22 Jun 2012.
+Publisher
+  Journal of Clinical and Diagnostic Research (71 Veer Nagar,G.T. Road, Delhi 110007, India)
+Publication Type
+  Journal: Article
+
+<9>
+Authors
+  Mameli L. Disma N. Torre M. Rapuzzi G. Montobbio G.
+Title
+  Randomized, double-blind, controlled trial pregabalin vs placebo on morphine consumption and pain control after pectus excavatum surgery in children.
+Source
+  Paediatric Anaesthesia. Conference: European Society of Paediatric Anaesthesiology Annual Congress 2011 Palma de Mallorca Spain. Conference Start: 20110922 Conference End: 20110924. Conference Publication: (var.pagings). 22 (9) (pp 929), 2012. Date of Publication: September 2012.
+Publisher
+  Blackwell Publishing Ltd
+Publication Type
+  Journal: Conference Abstract
+
+<10>
+Authors
+  Pontaen E. Viberg H. Gordh T. Eriksson P. Fredriksson A.
+Title
+  Clonidine abolishes the adverse effects on apoptosis and behaviour after neonatal ketamine exposure in mice.
+Source
+  Acta Anaesthesiologica Scandinavica. 56 (8) (pp 1058-1065), 2012. Date of Publication: September 2012.
+Publisher
+  Blackwell Munksgaard (1 Rosenorns Alle, P.O. Box 227, Copenhagen V DK-1502, Denmark)
+Publication Type
+  Journal: Article
+
+
+
